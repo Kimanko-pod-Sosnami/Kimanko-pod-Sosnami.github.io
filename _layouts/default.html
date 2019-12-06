@@ -56,9 +56,10 @@
               <p class="menu-label">
                 Contact
               </p>
-              <p class="menu-contact">
-                  <p>{{ site.data.contact.email }}</p>
-                  <p>{{ site.data.contact.tel }}</p>
+              <div class="menu-contact">
+                  <p><span class="icon"><i class="fas fa-envelope"></i></span> <a href="mailto:{{ site.data.contact.email }}">{{ site.data.contact.email }}</a></p>
+                  <p><span class="icon"><i class="fas fa-phone"></i></span> {{ site.data.contact.tel }}</p>
+                  <p><span class="icon"><i class="fab fa-facebook-square"></i></span> <a href="{{ site.data.contact.facebook.url }}">{{ site.data.contact.facebook.name }}</a></p>
               </p>
           </div>
         </aside>

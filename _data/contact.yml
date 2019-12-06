@@ -1,3 +1,5 @@
 email: sebastian.proost@gmail.com
 tel: 0032 494 14 10 25
-facebook_url: www.facebook.com
+facebook:
+  url: https://www.facebook.com
+  name: KimankoPodSosnami
