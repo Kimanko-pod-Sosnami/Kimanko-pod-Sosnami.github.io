@@ -1,6 +1,6 @@
 <html>
 <head>
-    <link rel="stylesheet" type="text/css" href="/css/main.css">
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/main.css">
 
     <title>{{ page.title }}</title>
 </head>
@@ -8,8 +8,8 @@
 <div id="page">
     <nav class="navbar is-hidden-tablet" role="navigation" aria-label="main navigation">
       <div class="navbar-brand">
-        <a class="navbar-item" href="https://bulma.io">
-          <img src="https://bulma.io/images/bulma-logo.png" width="112" height="28">
+        <a class="navbar-item" href="{{ site.baseurl }}/index.html">
+          <img src="{{ site.baseurl }}/assets/img/logo_header.png" alt="logo" />
         </a>
 
         <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
@@ -21,73 +21,37 @@
 
       <div id="navbarBasicExample" class="navbar-menu">
         <div class="navbar-start">
-          <a class="navbar-item">
+          <a class="navbar-item" href="{{ site.baseurl }}/index.html">
             Home
           </a>
+          <a href="{{ site.baseurl }}/offer/" class="navbar-item">Offer</a>
+          <a href="{{ site.baseurl }}/gallery/" class="navbar-item">Gallery</a>
+          <a href="{{ site.baseurl }}/prices/" class="navbar-item">Prices</a>
+          <a href="{{ site.baseurl }}/reservations/" class="navbar-item">Reservation</a>
+          <a href="{{ site.baseurl }}/attractions/" class="navbar-item">Attractions</a>
 
-          <a class="navbar-item">
-            Documentation
-          </a>
-
-          <div class="navbar-item has-dropdown is-hoverable">
-            <a class="navbar-link">
-              More
-            </a>
-
-            <div class="navbar-dropdown">
-              <a class="navbar-item">
-                About
-              </a>
-              <a class="navbar-item">
-                Jobs
-              </a>
-              <a class="navbar-item">
-                Contact
-              </a>
-              <hr class="navbar-divider">
-              <a class="navbar-item">
-                Report an issue
-              </a>
-            </div>
-          </div>
-        </div>
-
-        <div class="navbar-end">
-          <div class="navbar-item">
-            <div class="buttons">
-              <a class="button is-primary">
-                <strong>Sign up</strong>
-              </a>
-              <a class="button is-light">
-                Log in
-              </a>
-            </div>
-          </div>
         </div>
       </div>
     </nav>
     <section class="main-content columns is-fullheight">
         <aside class="is-3 is-narrow-mobile is-fullheight is-hidden-mobile menu">
           <div class="menu-header has-text-centered is-vertical-center">
-              LOGO
+              <div>
+              <img src="{{ site.baseurl }}/assets/img/logo_sidebar.png" alt="logo" height="100" /><br />
+              <p>Kimanko pod Sosnami</p>
+              </div>
           </div>
           <div class="section">
               <p class="menu-label">
-                Administration
+                Menu
               </p>
               <ul class="menu-list">
-                <li><a>Team Settings</a></li>
-                <li>
-                  <a class="is-active">Manage Your Team</a>
-                  <ul>
-                    <li><a>Members</a></li>
-                    <li><a>Plugins</a></li>
-                    <li><a>Add a member</a></li>
-                  </ul>
-                </li>
-                <li><a>Invitations</a></li>
-                <li><a>Cloud Storage Environment Settings</a></li>
-                <li><a>Authentication</a></li>
+                  <li><a href="{{ site.baseurl }}/index.html">Home</a></li>
+                  <li><a href="{{ site.baseurl }}/offer/" {%- if page.permalink == "/offer/" -%}class="is-active"{%- endif -%}>Offer</a></li>
+                  <li><a href="{{ site.baseurl }}/gallery/" {%- if page.permalink == "/gallery/" -%}class="is-active"{%- endif -%}>Gallery</a></li>
+                  <li><a href="{{ site.baseurl }}/prices/" {%- if page.permalink == "/prices/" -%}class="is-active"{%- endif -%}>Prices</a></li>
+                  <li><a href="{{ site.baseurl }}/reservations/" {%- if page.permalink == "/reservations/" -%}class="is-active"{%- endif -%}>Reservation</a></li>
+                  <li><a href="{{ site.baseurl }}/attractions/" {%- if page.permalink == "/attractions/" -%}class="is-active"{%- endif -%}>Attractions</a></li>
               </ul>
               <p class="menu-label">
                 Contact

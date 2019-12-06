@@ -1,5 +1,7 @@
 //custom layout
 
+$menu_color: #333;
+
 html, body, #page {
   height: 100%;
 }
@@ -14,10 +16,26 @@ html, body, #page {
   justify-content: center;
 }
 
+// Header
+
+.navbar-brand {
+  background-color: $menu_color;
+  box-shadow: 0 8px 16px rgba(10, 10, 10, 0.1);
+}
+
+.navbar-burger {
+  color: #ddd;
+}
+
+.navbar-burger:hover {
+  color: #eee;
+}
+
 // Side menu
 
 aside {
-  background-color: #333;
+  background-color: $menu_color;
+  box-shadow: 8px 0 16px rgba(10, 10, 10, 0.1);
   position: sticky;
   top: 0px;
 
@@ -26,8 +44,8 @@ aside {
   }
   .menu-header {
     width: 100%;
-    height: 150px;
-    background-color: #555;
+    min-height: 150px;
+    background-color: $menu_color;
   }
 }
 

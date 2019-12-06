@@ -1,5 +1,7 @@
 name: Kimanko pod Sosnami
 
+baseurl: "" # the subpath of your site, e.g. /blog/
+
 highlighter: rouge
 encoding: utf-8
 
