@@ -37,7 +37,7 @@ permalink: /contact/
 </div>
 
 
-## How to get to our BnB ?
+## How to get to our guesthouse ?
 
 ### By Car
 
