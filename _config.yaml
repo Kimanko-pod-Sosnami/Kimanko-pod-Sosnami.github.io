@@ -1,9 +1,11 @@
 name: Kimanko pod Sosnami
 
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog
 
 highlighter: rouge
 encoding: utf-8
 
+header_image: "/assets/img/gallery/20190614_165933.jpg"
+
 include: ['_pages']
-exclude: ['artwork', 'README.md']
+exclude: ['artwork', 'README.md', '.idea']

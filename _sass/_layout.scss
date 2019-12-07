@@ -1,6 +1,5 @@
 //custom layout
 
-$menu_color: #333;
 
 html, body, #page {
   height: 100%;
@@ -36,25 +35,78 @@ html, body, #page {
 aside {
   background-color: $menu_color;
   box-shadow: 8px 0 16px rgba(10, 10, 10, 0.1);
-  position: sticky;
+  # position: sticky;
   top: 0px;
+  min-height: 100vh;
+  min-width: 229px;
+  z-index: 20;
 
   .column {
     padding: 0px;
   }
+
+  hr {
+    color: $menu_link_color;
+    background-color: $menu_link_color;
+    height: 1px;
+  }
+
   .menu-header {
     width: 100%;
     min-height: 150px;
-    background-color: $menu_color;
   }
-}
-
-.is-fullheight {
-  height: 100vh;
 }
 
 .menu-contact {
   p {
     font-size: 0.75rem;
+  }
+
+  a {
+    color: $menu_link_color;
+  }
+  a:hover {
+    color: lighten($menu_link_color, 20%);
+  }
+}
+
+// Section
+
+h1 {
+  font-size: 2.45rem;
+  text-align:center;
+}
+
+h2 {
+  font-size: 2rem;
+}
+
+
+// Gallery page
+.lSSlideOuter {
+    padding-top: 15px;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+// Hero banner
+
+.hero {
+  margin-top: -30px;
+  margin-left: -100px;
+  margin-right: -100px;
+  background-position: 50% 30%;
+  background-size: cover;
+
+  .scrim {
+    background-color: rgba(0, 0, 0, 0.4);
+    margin: 0px;
+    width:100%;
+    height:100%;
+  }
+
+  .title {
+      text-shadow: 0 2px 1px rgba(0, 0, 0, 0.67) !important;
   }
 }

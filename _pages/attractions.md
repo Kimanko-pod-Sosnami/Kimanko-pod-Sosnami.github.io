@@ -5,3 +5,4 @@ permalink: /attractions/
 ---
 
 <h1>Attractions</h1>
+

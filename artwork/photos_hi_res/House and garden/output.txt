@@ -1,0 +1,28 @@
+ Volume in drive D is Data
+ Volume Serial Number is 38CB-55F3
+
+ Directory of D:\Git\Kimanko-pod-Sosnami.github.io\artwork\photos_hi_res\House and garden
+
+07-Dec-19  02:30 PM    <DIR>          .
+07-Dec-19  02:30 PM    <DIR>          ..
+02-Jul-19  11:53 AM         8,784,180 20190614_113320.jpg
+02-Jul-19  11:53 AM        19,453,054 20190614_164322.jpg
+02-Jul-19  11:53 AM        18,166,606 20190614_165933.jpg
+02-Jul-19  11:53 AM         4,946,090 20190614_181430.jpg
+16-Aug-19  05:46 PM         1,733,201 DSC06151.JPG
+17-Aug-19  08:37 PM         4,218,555 DSC06237.JPG
+17-Aug-19  08:39 PM         4,258,242 DSC06240.JPG
+17-Aug-19  08:39 PM         3,260,194 DSC06241.JPG
+17-Aug-19  08:39 PM         2,580,092 DSC06242.JPG
+02-Jul-19  11:53 AM         2,830,116 GOPR8789.JPG
+17-Mar-18  03:11 PM           106,946 IMG-20180317-WA0042.jpg
+21-May-18  08:31 PM           160,924 IMG-20180521-WA0016.jpg
+26-Oct-18  07:50 PM           186,906 IMG-20181026-WA0007.jpg
+30-Jul-19  05:48 PM           238,615 IMG-20181212-WA0000.1.jpg
+31-Jul-19  10:20 AM            69,751 IMG-20190731-WA0005.jpg
+31-Jul-19  10:43 AM           116,481 IMG-20190731-WA0008.jpg
+10-Jun-18  03:53 PM         4,180,838 IMG_20180610_165319841.jpg
+08-Mar-19  11:16 AM         5,061,279 IMG_20190308_111645893.jpg
+07-Dec-19  02:30 PM                 0 output.txt
+              19 File(s)     80,352,070 bytes
+               2 Dir(s)  76,045,524,992 bytes free

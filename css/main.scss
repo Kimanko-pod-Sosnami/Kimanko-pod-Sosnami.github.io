@@ -6,6 +6,7 @@
 // Import partials from `sass_dir` (defaults to `_sass`)
 // Includes Bourbon, Neat, and Bitters (thanks, thoughtbot!)
 @import
+  "colors",
   "bulma/bulma",
   "fontawesome/fontawesome",
   "fontawesome/brands",

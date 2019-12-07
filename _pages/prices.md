@@ -4,4 +4,4 @@ title: Kimanko pod Sosnami - Prices
 permalink: /prices/
 ---
 
-<h1>prices</h1>
+<h1>Prices</h1>

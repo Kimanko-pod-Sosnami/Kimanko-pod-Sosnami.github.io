@@ -4,4 +4,4 @@ title: Kimanko pod Sosnami - reservations
 permalink: /reservations/
 ---
 
-<h1>reservations</h1>
+<h1>Reservations</h1>
