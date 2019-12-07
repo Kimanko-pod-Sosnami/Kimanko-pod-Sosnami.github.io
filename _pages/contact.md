@@ -11,7 +11,7 @@ permalink: /contact/
 <div class="card">
   <div class="card-image">
     <figure class="image is-4by3">
-      <img src="{{ site.baseurl }}{{ site.header_image }}" alt="The Bed and Breakfast">
+      <img src="{{ site.baseurl }}{{ site.header_image }}" alt="The guesthouse">
     </figure>
   </div>
   <div class="card-content">

@@ -6,7 +6,7 @@ permalink: /attractions/
 
 # Attractions
 
-The center of [Brenna](https://en.wikipedia.org/wiki/Brenna,_Poland) is within walking distance of our Bed & Breakfast,
+The center of [Brenna](https://en.wikipedia.org/wiki/Brenna,_Poland) is within walking distance of our guesthouse,
 here you'll find various restaurants and shops. For people looking for a more active holiday, there are hiking trails 
 starting from Brenna, while those travelling with children will be happy to find playground and activities for 
 kids nearby. 

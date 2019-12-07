@@ -10,4 +10,4 @@ header_image: "/assets/img/gallery/20190614_165933.jpg"
 include: ['_pages']
 exclude: ['artwork', 'README.md', '.idea']
 
-maps_api_key: 'AIzaSyDzQ8PLHwC3uCpEFtZeb0k2Hu_aVMY7fAw'
+maps_api_key: 'AIzaSyAlLeMehzVYAG8nuAxl6muDy9WPq1ROqg8'

@@ -6,5 +6,5 @@ permalink: /offer/
 
 # Offer
 
-Our Bed & Breakfast is located in Brenna
+Our guesthouse is located in Brenna
 

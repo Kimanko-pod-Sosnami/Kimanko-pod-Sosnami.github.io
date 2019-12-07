@@ -76,8 +76,13 @@ h1 {
   font-size: 2.45rem;
   text-align:center;
   padding-bottom: 3rem;
-}
 
+    .byline {
+      font-size: 2rem;
+      font-style: italics;
+      font-weight: lighter
+    }
+}
 h2 {
   font-size: 2rem;
 }
