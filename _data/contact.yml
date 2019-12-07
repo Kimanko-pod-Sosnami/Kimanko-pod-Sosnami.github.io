@@ -1,5 +1,11 @@
+address:
+  street_number: Szkolna 11
+  municipality: 43-438 Brenna
+  country: Poland
+
 email: KimankoPodSosnami@op.pl
 tel: 0012 345 67 67 67
+
 facebook:
   url: https://www.facebook.com
   name: KimankoPodSosnami

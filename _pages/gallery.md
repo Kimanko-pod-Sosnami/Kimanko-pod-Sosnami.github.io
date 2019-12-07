@@ -6,8 +6,7 @@ permalink: /gallery/
 
 <h1>Gallery</h1>
 
-<div class="section">
-<h2>Our BnB and the Garden</h2>
+<h2>Our Bed & Breakfast and the Garden</h2>
 
 <ul id="garden-gallery" class="gallery list-unstyled cS-hidden">
     {% for image in site.data.gallery_garden.images %}
@@ -17,7 +16,6 @@ permalink: /gallery/
     </li>    
     {% endfor %}
 </ul>
-</div>
 
 <div class="section">
 <h2>Things to see in Brenna</h2>

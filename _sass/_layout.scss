@@ -75,6 +75,7 @@ aside {
 h1 {
   font-size: 2.45rem;
   text-align:center;
+  padding-bottom: 3rem;
 }
 
 h2 {
@@ -84,7 +85,7 @@ h2 {
 
 // Gallery page
 .lSSlideOuter {
-    padding-top: 15px;
+    padding-top: 35px;
     max-width: 600px;
     margin-left: auto;
     margin-right: auto;
@@ -99,6 +100,8 @@ h2 {
   background-position: 50% 30%;
   background-size: cover;
 
+  box-shadow: 0 8px 16px rgba(10, 10, 10, 0.1);
+
   .scrim {
     background-color: rgba(0, 0, 0, 0.4);
     margin: 0px;
@@ -109,4 +112,17 @@ h2 {
   .title {
       text-shadow: 0 2px 1px rgba(0, 0, 0, 0.67) !important;
   }
+}
+
+// Google maps
+
+#map {
+    height: 50vh;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+#map.is_fullheight {
+    height: 100%
 }
