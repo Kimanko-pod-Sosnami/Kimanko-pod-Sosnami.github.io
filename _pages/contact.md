@@ -4,5 +4,14 @@ title: Kimanko pod Sosnami - Contact
 permalink: /contact/
 ---
 
-<h1>Contact</h1>
+# Contact
 
+## How to get to our BnB ?
+
+### By Car
+
+### By Bus
+
+### By Train
+
+### By Plane

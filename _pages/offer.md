@@ -4,5 +4,7 @@ title: Kimanko pod Sosnami - Offer
 permalink: /offer/
 ---
 
-<h1>Offer</h1>
+# Offer
+
+Our Bed & Breakfast is located in Brenna
 
