@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Kimanko pod Sosnami - reservations
+title: Reservations
 permalink: /reservations/
 ---
 

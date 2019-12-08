@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Kimanko pod Sosnami - Prices
+title: Prices
 permalink: /prices/
 ---
 

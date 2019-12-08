@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Kimanko pod Sosnami - Gallery
+title: Gallery
 permalink: /gallery/
 ---
 

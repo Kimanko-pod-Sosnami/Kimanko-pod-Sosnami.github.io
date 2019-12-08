@@ -75,7 +75,16 @@ aside {
 h1 {
   font-size: 2.45rem;
   text-align:center;
-  padding-bottom: 3rem;
+
+  padding-bottom: 0.5rem;
+  margin-bottom: 2.5rem;
+
+  border-bottom: #DDD 1px solid;
+
+  @media (min-width: $tablet) {
+    padding-top: 0.5rem;
+    border-top: #DDD 1px solid;
+  }
 
     .byline {
       font-size: 2rem;
