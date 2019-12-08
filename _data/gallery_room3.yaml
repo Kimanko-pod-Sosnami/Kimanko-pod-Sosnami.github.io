@@ -1,0 +1,11 @@
+images:
+  - path: "/assets/img/gallery/20190614_111630.jpg"
+    thumb_path: "/assets/img/gallery/thumb/20190614_111630.jpg"
+  - path: "/assets/img/gallery/20190614_111700.jpg"
+    thumb_path: "/assets/img/gallery/thumb/20190614_111700.jpg"
+  - path: "/assets/img/gallery/20190614_111836.jpg"
+    thumb_path: "/assets/img/gallery/thumb/20190614_111836.jpg"
+  - path: "/assets/img/gallery/20190614_111938.jpg"
+    thumb_path: "/assets/img/gallery/thumb/20190614_111938.jpg"
+  - path: "/assets/img/gallery/GOPR8787.jpg"
+    thumb_path: "/assets/img/gallery/thumb/GOPR8787.jpg"

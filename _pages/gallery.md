@@ -8,26 +8,30 @@ permalink: /gallery/
 
 <h2>Our guesthouse and the garden</h2>
 
-<ul id="garden-gallery" class="gallery list-unstyled cS-hidden">
-    {% for image in site.data.gallery_garden.images %}
-    <li data-thumb="{{ image.thumb_path }}"> 
-        <img src="{{ image.path }}" />
-        <p>{{ image.description }}</p>
-    </li>    
-    {% endfor %}
-</ul>
+<div class="gallery">
+    <ul id="garden-gallery" class="gallery list-unstyled cS-hidden">
+        {% for image in site.data.gallery_garden.images %}
+        <li data-thumb="{{ image.thumb_path }}"> 
+            <img src="{{ image.path }}" />
+            <p>{{ image.description }}</p>
+        </li>    
+        {% endfor %}
+    </ul>
+</div>
 
 <div class="section">
 <h2>Things to see in Brenna</h2>
 
-<ul id="brenna-gallery" class="gallery list-unstyled cS-hidden">
-    {% for image in site.data.gallery_brenna.images %}
-    <li data-thumb="{{ image.thumb_path }}"> 
-        <img src="{{ image.path }}" />
-        <p>{{ image.description }}</p>
-    </li>    
-    {% endfor %}
-</ul>
+<div class="gallery">
+    <ul id="brenna-gallery" class="gallery list-unstyled cS-hidden">
+        {% for image in site.data.gallery_brenna.images %}
+        <li data-thumb="{{ image.thumb_path }}"> 
+            <img src="{{ image.path }}" />
+            <p>{{ image.description }}</p>
+        </li>    
+        {% endfor %}
+    </ul>
+    </div>
 </div>
 
 <script type="text/javascript">
