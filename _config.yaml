@@ -1,5 +1,8 @@
 name: Kimanko pod Sosnami
 
+plugins:
+  - jekyll-sitemap
+
 baseurl: "" # the subpath of your site, e.g. /blog
 
 highlighter: rouge
