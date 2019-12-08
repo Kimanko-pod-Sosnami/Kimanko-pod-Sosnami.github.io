@@ -7,4 +7,51 @@ title: Home
   <span class="byline">Rooms for Rent</span></h1>
 
 
+<div>
+    <ul id="main-gallery" class="gallery list-unstyled cS-hidden">
+        {% for image in site.data.gallery_main.images %}
+        <li data-thumb="{{ image.thumb_path }}" data-src="{{ image.path }}">
+            <img src="{{ image.path }}" />
+            <p>{{ image.description }}</p>
+        </li>
+        {% endfor %}
+    </ul>
+</div>
 
+<script type="text/javascript">
+    $(document).ready(function() {
+            $('#main-gallery').lightSlider({
+                gallery:false,
+                item:3,
+                thumbItem:9,
+                slideMargin: 8,
+                speed:500,
+                auto:true,
+                loop:true,
+                autoWidth: false,
+                responsive : [
+                    {
+                        breakpoint:800,
+                        settings: {
+                            item:2,
+                            slideMove:1,
+                            slideMargin:6,
+                          }
+                    },
+                    {
+                        breakpoint:480,
+                        settings: {
+                            item:1,
+                            slideMove:1
+                          }
+                    }
+                ],
+                onSliderLoad: function(el) {
+                    $('#main-gallery').removeClass('cS-hidden');
+                    el.lightGallery({
+                        selector: '#main-gallery .lslide'
+                    });
+                }
+            });
+    });
+</script>

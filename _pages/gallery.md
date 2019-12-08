@@ -19,7 +19,8 @@ permalink: /gallery/
     </ul>
 </div>
 
-<div class="section">
+<br /><br />
+
 <h2>Things to see in Brenna</h2>
 
 <div class="gallery">
@@ -31,8 +32,8 @@ permalink: /gallery/
         </li>    
         {% endfor %}
     </ul>
-    </div>
 </div>
+
 
 <script type="text/javascript">
     $(document).ready(function() {
