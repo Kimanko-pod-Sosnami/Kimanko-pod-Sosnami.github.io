@@ -32,10 +32,17 @@ Visit the [gallery]({{ site.baseurl }}/gallery/) for pictures of the garden.
         </ul>
     </nav> 
   </header>
-    <div id="R1" class="content-tab" style="display:none">
-      <p>Under renovation</p>  
+    <div id="R1" class="content-tab">
+        <div class="columns">
+            <div class="column is-6">
+                <div class="card-content">Description here</div>
+            </div>
+            <div class="column is-6">
+                <div class="card-content">Coming soon</div>
+            </div> 
+        </div>
     </div>
-    <div id="R2" class="content-tab">
+    <div id="R2" class="content-tab is-active">
         <div class="columns">
             <div class="column is-6">
                 <div class="card-content">Description here</div>
@@ -52,12 +59,12 @@ Visit the [gallery]({{ site.baseurl }}/gallery/) for pictures of the garden.
             </div>
         </div>
     </div>
-    <div id="R3" class="content-tab" style="display:none">
+    <div id="R3" class="content-tab">
         <div class="columns">
             <div class="column is-6">
                 <div class="card-content">Description here</div>
             </div>    
-            <div class="column is-6">                
+            <div class="column is-6">              
             <ul id="gallery-room3" class="gallery list-unstyled cS-hidden">
                 {% for image in site.data.gallery_room3.images %}
                 <li data-thumb="{{ image.thumb_path }}"> 
@@ -66,10 +73,10 @@ Visit the [gallery]({{ site.baseurl }}/gallery/) for pictures of the garden.
                 </li>    
                 {% endfor %}
             </ul>
-            </div>
+            </div> 
         </div>
     </div>
-    <div id="R4" class="content-tab" style="display:none">
+    <div id="R4" class="content-tab">
         <div class="columns">
             <div class="column is-6">
                 <div class="card-content">Description here</div>
@@ -92,6 +99,8 @@ Visit the [gallery]({{ site.baseurl }}/gallery/) for pictures of the garden.
   </footer>
 </div>
 
+<div class="section">
+</div>
 <script>
     $(document).ready(function() {
             function init_gallery(gallery) {
@@ -111,34 +120,20 @@ Visit the [gallery]({{ site.baseurl }}/gallery/) for pictures of the garden.
     
             //init default gallery
             init_gallery('#gallery-room2');
+            init_gallery('#gallery-room3');
+            init_gallery('#gallery-room4');
             
             $('#r1-tab').click(function(ev) {
                 openTab(ev,'R1');
-                if ($('#gallery-room1').hasClass('cS-hidden')) {
-                    init_gallery('#gallery-room1');
-                }
-                $('.lSSlideWrapper').resize()
             });            
             $('#r2-tab').click(function(ev) {
                 openTab(ev,'R2');
-                if ($('#gallery-room2').hasClass('cS-hidden')) {
-                    init_gallery('#gallery-room2');
-                }
-                $('.lSSlideWrapper').resize()
             });
             $('#r3-tab').click(function(ev) {
                 openTab(ev,'R3');
-                if ($('#gallery-room3').hasClass('cS-hidden')) {
-                    init_gallery('#gallery-room3');
-                }
-                $('.lSSlideWrapper').resize()
             });
             $('#r4-tab').click(function(ev) {
                 openTab(ev,'R4');
-                if ($('#gallery-room4').hasClass('cS-hidden')) {
-                    init_gallery('#gallery-room4');
-                }
-                $('.lSSlideWrapper').resize()
             });
     });
 </script>
