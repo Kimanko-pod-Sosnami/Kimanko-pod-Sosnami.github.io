@@ -7,26 +7,22 @@ permalink: /offer/
 # Offer
 
 
-Our guesthouse, "Kimanko pod Sosnami", is located in a quiet and peaceful district in Brenna, about 1800m 
-from the city center.
+Our guesthouse, "Kimanko pod Sosnami", is located in a quiet and peaceful district in Brenna, walking-distance
+from the city center. Ideal for for people who value peace and quiet, nature lovers and families with children. 
+
 
 <br />
-The river Brennica is within walking distance (600m), where you can relax by the water. In the center 
-of Brenna there is a convenience store (Biedronka) and several other stores where you will find all the 
-products you need. It is worth noting that in the vicinity there is a local butcher who prepares delicious 
-sausages (perfect for roasting above a fire!) and other home-made products (about 800m). 
+We currently have <strong>three guest rooms</strong> on the second floor. Each room was recently
+renovated and comes with a <strong>flat-screen TV</strong>, a <strong>private bathroom</strong> with a sink, toilet and shower. On the same 
+floor there is <strong>kitchen</strong> (equipped with a fridge, microwave, water-cooker, mini-stove for preparing breakfast or 
+a quick snack) that can be used by guests and a <strong>kids corner</strong> with toys, color books, ... perfect during
+rainy days.
+
 
 <br />
-We currently have three guest rooms on the second floor. Each room was recently
-renovated and comes with Wifi internet, a TV, a private bathroom equipped with a sink, toilet and shower. On the same 
-floor there is a fully equipped kitchen that can be used by guests and a kids corner with toys, color books, ...
-
-<br />
-We highly recommend our guesthouse for people who value peace and quiet, nature lovers and families with children. 
-
-<br />
-The large garden surrounding the guesthouse is available for guests. There are picnic benches and a spot for campfires.
-Visit the [gallery]({{ site.baseurl }}/gallery/) for all pictures of our guesthouse, the garden and the surroundings.
+The <strong>large garden</strong> surrounding the guesthouse is available for guests. There are 
+<strong>picnic benches</strong> and a spot for <strong>campfires</strong>.
+Check out our [gallery]({{ site.baseurl }}/gallery/)!
 
 <br />
 <div class="card">
@@ -51,8 +47,14 @@ Visit the [gallery]({{ site.baseurl }}/gallery/) for all pictures of our guestho
     <div id="R2" class="content-tab is-active">
         <div class="columns">
             <div class="column is-6">
-                <div class="card-content">A double room with a double bed, wardrobe, table with chairs, flat TV 
-                and bathroom.</div>
+                <div class="card-content">
+                A double room with a double bed, wardrobe, table with chairs, flat TV 
+                and bathroom.
+                <br /><br /><br /><br />
+                
+                The rate for this room starts from <strong>PLN {{ site.data.prices.double_room }}</strong> (per night)
+                
+                </div>
             </div>    
             <div class="column is-6">
             <ul id="gallery-room2" class="gallery list-unstyled cS-hidden">
@@ -71,7 +73,11 @@ Visit the [gallery]({{ site.baseurl }}/gallery/) for all pictures of our guestho
             <div class="column is-6">
                 <div class="card-content">Room for 2-4 people with one large bed and fold-out sofa, wardrobe, 
                 small table, TV and a new bathroom (shower with extra deep tub, useful for bathing small children). 
-                Recommended for people who prefer more space or parents with their children.</div>
+                Recommended for people who prefer more space or parents with their children.
+                                <br /><br /><br /><br />
+                
+                The rate for this room starts from <strong>PLN {{ site.data.prices.large_room }}</strong> (per night)
+                </div>
             </div>    
             <div class="column is-6">              
             <ul id="gallery-room3" class="gallery list-unstyled cS-hidden">
@@ -89,7 +95,11 @@ Visit the [gallery]({{ site.baseurl }}/gallery/) for all pictures of our guestho
         <div class="columns">
             <div class="column is-6">
                 <div class="card-content">Double room with two single beds (can be joined), wardrobe, table with 
-                chairs, bathroom and flat-screen TV.</div>
+                chairs, bathroom and flat-screen TV.
+                                <br /><br /><br /><br />
+                
+                The rate for this room starts from <strong>PLN {{ site.data.prices.double_room }}</strong> (per night)
+                </div>
             </div>    
             <div class="column is-6">
             <ul id="gallery-room4" class="gallery list-unstyled cS-hidden">
@@ -104,8 +114,7 @@ Visit the [gallery]({{ site.baseurl }}/gallery/) for all pictures of our guestho
         </div>
   </div>
   <footer class="card-footer">
-    <a href="{{ site.baseurl }}/prices/" class="card-footer-item">Prices</a>
-    <a href="{{ site.baseurl }}/reservations/" class="card-footer-item">Reservations</a>
+    <a href="{{ site.baseurl }}/prices/" class="card-footer-item">Rates &amp; Reservations</a>
   </footer>
 </div>
 

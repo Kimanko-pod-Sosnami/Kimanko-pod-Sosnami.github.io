@@ -17,8 +17,8 @@ permalink: /contact/
   <div class="card-content">
     <div class="media">
       <div class="media-content">
+        <p class="subtitle is-6">Guesthouse</p>
         <p class="title is-4">Kimanko pod Sosnami</p>
-        <p class="subtitle is-6">Bed and Breakfast</p>
       </div>
     </div>
 

@@ -7,9 +7,10 @@ permalink: /attractions/
 # Attractions
 
 The center of [Brenna](https://en.wikipedia.org/wiki/Brenna,_Poland) is within walking distance of our guesthouse,
-here you'll find various restaurants and shops. For people looking for a more active holiday, there are hiking trails 
+here you'll find various restaurants and shops. It is worth noting that in the vicinity there is a local butcher who 
+prepares delicious sausages (perfect for roasting above a fire!) and other home-made products (about 800m). For people looking for a more active holiday, there are hiking trails 
 starting from Brenna, while those travelling with children will be happy to find playground and activities for 
-kids nearby. 
+kids nearby. The river Brennica is within walking distance (600m), where you can relax by the water.
 
 <br />
 <div class="card">
@@ -17,7 +18,7 @@ kids nearby.
         <div class="container">
           <ul>
             <li class="tab is-active" onclick="openTab(event,'Eat')"><a><span class="icon is-small"><i class="fas fa-utensils" aria-hidden="true"></i></span><span>Eat</span></a></li>
-            <li class="tab" onclick="openTab(event,'See')"><a><span class="icon is-small"><i class="fas fa-binoculars" aria-hidden="true"></i></span><span>See</span></a></li>
+            <!--<li class="tab" onclick="openTab(event,'See')"><a><span class="icon is-small"><i class="fas fa-binoculars" aria-hidden="true"></i></span><span>See</span></a></li>-->
             <li class="tab" onclick="openTab(event,'Kids')"><a><span class="icon is-small"><i class="fas fa-ice-cream" aria-hidden="true"></i></span><span>Kids</span></a></li>
             <li class="tab" onclick="openTab(event,'Sports')"><a><span class="icon is-small"><i class="fas fa-hiking" aria-hidden="true"></i></span><span>Sports</span></a></li>
           </ul>
@@ -53,7 +54,7 @@ kids nearby.
   * [Chlebowa Chata](http://www.chlebowachata.pl/)
   * [Kozia Zagroda](http://www.koziazagroda.com/) Goat Farm and restaurant
     * Brenna Centrum, ul. Sportowa 3
-  * [Pumptrack](https://business.facebook.com/pumptrackbrenna/) -bicycle playground
+  * [Pumptrack](https://business.facebook.com/pumptrackbrenna/) - bicycle playground
     * Brenna, ul. Górkacka 224
   * Recreational square in the Tourism Park
     * Brenna, ul. Malinowa 2b
@@ -79,12 +80,12 @@ kids nearby.
 <div markdown="1">
 
   * Hiking trails
-    * follow the green trail from the center of Brenna to the Błatnia peak, where the PTTK hostel is located.
-    * follow the black trail to Równica, where the PTTK shelter and rope park are located
-    * Loop: Brenna - Hołcyna - Kotarz (blue trail) - Grabowa (red trail) - Stary Groń (black trail) - Brenna (further on the black trail, about 16km, we pass the lookout tower between Grabowa and Stary Groń and the Chata Grabowa Hostel
-    * Loop: Brenna - Błatnia (green trail) - Klimczok (yellow trail) - Uncle Tom's Cottage (red trail) - Brenna Bukowa (yellow trail) about 18km
-  * For running fans: [http://brenskiekierpce.pl/](http://brenskiekierpce.pl/))</li>
-  * [Pumptrack](https://business.facebook.com/pumptrackbrenna/) -bicycle playground
+    * follow the green trail from the center of Brenna to the **Błatnia** peak, where the PTTK hostel is located.
+    * follow the black trail to **Równica**, where the PTTK shelter and rope park are located
+    * Loop: Brenna - Hołcyna - **Kotarz** (blue trail) - Grabowa (red trail) - **Stary Groń** (black trail) - Brenna (further on the black trail, about 16km, we pass the lookout tower between Grabowa and Stary Groń and the Chata Grabowa Hostel
+    * Loop: Brenna - **Błatnia** (green trail) - **Klimczok** (yellow trail) - Uncle Tom's Cottage (red trail) - Brenna Bukowa (yellow trail) about 18km
+  * For running fans: [http://brenskiekierpce.pl/](http://brenskiekierpce.pl/))
+  * [Pumptrack](https://business.facebook.com/pumptrackbrenna/) - bicycle playground
     * Brenna, ul. Górkacka 224
   * Recreational square in the Tourism Park
     * Brenna, ul. Malinowa 2b

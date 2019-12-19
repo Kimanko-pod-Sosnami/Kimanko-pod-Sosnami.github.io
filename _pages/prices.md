@@ -1,24 +1,138 @@
 ---
 layout: default
-title: Prices
+title: Rates &amp; Reservations
 permalink: /prices/
 ---
 
-# Prices
+# Rates &amp; Reservations
 
-<div class="content" markdown="1">
+<div class="columns is-multiline">
 
-  * Room 2 and Room 4
-    * Double room with bathroom
-    * Standard rate: <strong>PLN 80</strong> (per night)
 
-  * Room 3
-    * 2-4 person room (double bed and foldable couch) with bathroom
-    * Standard rate: <strong>PLN 120</strong> (per night)
+<div class="column is-4-desktop is-6-tablet">
+<article class="panel">
+  <p class="panel-heading">
+    Room 2
+  </p>
+  
+  <a class="panel-block">
+    <span class="panel-icon">
+      <i class="fas fa-user-friends" aria-hidden="true"></i>
+    </span>
+    1-2 Guests
+  </a>
+  
+  <a class="panel-block">
+    <span class="panel-icon">
+      <i class="fas fa-bed" aria-hidden="true"></i>
+    </span>
+    Double bed or twin beds
+  </a>
+
+  <a class="panel-block">
+    <span class="panel-icon">
+      <i class="fas fa-tv" aria-hidden="true"></i>
+    </span>
+    Flat-screen TV
+  </a>
+
+  <a class="panel-block">
+    <span class="panel-icon">
+      <i class="fas fa-shower" aria-hidden="true"></i>
+    </span>
+    Private bathroom with shower, sink and toilet
+  </a>
+
+   <p class="panel-footer">
+    <span>from PLN&nbsp;{{ site.data.prices.double_room }}&nbsp;(per night)</span>
+  </p>
+</article>
 
 </div>
 
-Higher prices might apply during Christmas, New Year's Eve, Easter and long weekends. Reservations during 
+<div class="column is-4-desktop is-6-tablet">
+<article class="panel">
+  <p class="panel-heading">
+    Room 3
+  </p>
+  
+  <a class="panel-block">
+    <span class="panel-icon">
+      <i class="fas fa-user-friends" aria-hidden="true"></i>
+    </span>
+    2-4 Guests
+  </a>
+  
+  <a class="panel-block">
+    <span class="panel-icon">
+      <i class="fas fa-bed" aria-hidden="true"></i>
+    </span>
+    Double bed and foldable couch
+  </a>
+
+  <a class="panel-block">
+    <span class="panel-icon">
+      <i class="fas fa-tv" aria-hidden="true"></i>
+    </span>
+    Flat-screen TV
+  </a>
+
+  <a class="panel-block">
+    <span class="panel-icon">
+      <i class="fas fa-shower" aria-hidden="true"></i>
+    </span>
+    Private bathroom with shower, sink and toilet
+  </a>
+
+   <p class="panel-footer">
+    <span>from PLN&nbsp;{{ site.data.prices.large_room }}&nbsp;(per night)</span>
+  </p>
+</article>
+
+</div>
+<div class="column is-4-desktop is-6-tablet">
+<article class="panel">
+  <p class="panel-heading">
+    Room 4
+  </p>
+  
+  <a class="panel-block">
+    <span class="panel-icon">
+      <i class="fas fa-user-friends" aria-hidden="true"></i>
+    </span>
+    1-2 Guests
+  </a>
+  
+  <a class="panel-block">
+    <span class="panel-icon">
+      <i class="fas fa-bed" aria-hidden="true"></i>
+    </span>
+    Double bed or twin beds
+  </a>
+
+  <a class="panel-block">
+    <span class="panel-icon">
+      <i class="fas fa-tv" aria-hidden="true"></i>
+    </span>
+    Flat-screen TV
+  </a>
+
+  <a class="panel-block">
+    <span class="panel-icon">
+      <i class="fas fa-shower" aria-hidden="true"></i>
+    </span>
+    Private bathroom with shower, sink and toilet
+  </a>
+
+   <p class="panel-footer">
+    <span>from PLN&nbsp;{{ site.data.prices.double_room }}&nbsp;(per night)</span>
+  </p>
+</article>
+
+</div>
+</div>
+
+Higher prices apply during Christmas, New Year's Eve, Easter and long weekends. Reservations during 
 these periods should be at least for 3 nights, prices agreed by phone depending on the length of stay.
 
 <br />

@@ -41,13 +41,15 @@ aside {
   min-width: 229px;
   z-index: 20;
 
+  color: $menu-item-color;
+
   .column {
     padding: 0px;
   }
 
   hr {
-    color: $menu_link_color;
-    background-color: $menu_link_color;
+    color: $menu-link-color;
+    background-color: $menu-link-color;
     height: 1px;
   }
 
@@ -63,10 +65,10 @@ aside {
   }
 
   a {
-    color: $menu_link_color;
+    color: $menu-link-color;
   }
   a:hover {
-    color: lighten($menu_link_color, 20%);
+    color: lighten($menu-link-color, 20%);
   }
 }
 
@@ -87,7 +89,7 @@ aside {
   }
 
     .byline {
-      font-size: 2rem;
+      font-size: 50%;
       font-style: italics;
       font-weight: lighter
     }
@@ -222,4 +224,17 @@ nav.tabs {
           }
     }
 
+}
+
+// panel-footer
+
+.panel-footer
+{
+  background-color: $panel-heading-background-color;
+  border-radius: 0 0 $panel-radius $panel-radius;
+  color: $panel-heading-color;
+  font-size: $panel-heading-size;
+  font-weight: $panel-heading-weight;
+  line-height: $panel-heading-line-height;
+  padding: $panel-heading-padding;
 }

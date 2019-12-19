@@ -1,5 +1,8 @@
-$menu-item-active-color: #666666;
-$menu-item-active-background-color: #4a4a4a;
-
 $menu_color: #333;
-$menu_link_color: $menu-item-active-background-color;
+
+$menu-item-color: #aaa;
+$menu-link-color: $menu-item-color;
+$menu-label-color: $menu-item-color;
+
+$menu-item-active-color: #222;
+$menu-item-active-background-color: #666;
