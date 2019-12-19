@@ -22,7 +22,7 @@ renovated and comes with Wifi internet, a TV, a private bathroom equipped with a
 floor there is a fully equipped kitchen that can be used by guests and a kids corner with toys, color books, ...
 
 <br />
-We highly recommend our guesthouse for people who value peace, nature lovers and families with children. 
+We highly recommend our guesthouse for people who value peace and quiet, nature lovers and families with children. 
 
 <br />
 The large garden surrounding the guesthouse is available for guests. There are picnic benches and a spot for campfires.
