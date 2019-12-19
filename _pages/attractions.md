@@ -26,8 +26,17 @@ kids nearby.
     <div class="container section">
         <div id="Eat" class="content-tab is-active" >
           <div class="content">
-            test1<br>
-          Overview Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+<div markdown="1">
+
+  * [Kozia Zagroda](http://www.koziazagroda.com/) - Polish specialties
+  * Restauracja Beskid
+    * Brenna, Wyzwolenia 89
+  * Wędzarnia Kita Wędzona - Butcher with polish specialties. Excellent sausages for the campfire !
+    * Brenna, Bukowa 5
+  * [Biedronka](https://www.biedronka.pl/) - Supermarket
+    * Brenna, Wyzwolenia 38B
+    
+</div>
           </div>
         </div>
         <div id="See" class="content-tab">

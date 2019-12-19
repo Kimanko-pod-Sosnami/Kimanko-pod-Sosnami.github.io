@@ -11,8 +11,8 @@ A place to relax in Nature ! beautiful surroundings, peace and quite, a huge gar
 <div>
     <ul id="main-gallery" class="gallery list-unstyled cS-hidden">
         {% for image in site.data.gallery_main.images %}
-        <li data-thumb="{{ image.thumb_path }}" data-src="{{ image.path }}">
-            <img src="{{ image.path }}" />
+        <li data-src="{{ image.path }}">
+            <img src="{{ image.thumb_path }}" />
             <p>{{ image.description }}</p>
         </li>
         {% endfor %}
@@ -34,7 +34,6 @@ A place to relax in Nature ! beautiful surroundings, peace and quite, a huge gar
             $('#main-gallery').lightSlider({
                 gallery:false,
                 item:3,
-                thumbItem:9,
                 slideMargin: 8,
                 speed:500,
                 auto:true,

@@ -1,9 +1,9 @@
 images:
   - path: "/assets/img/gallery/20190614_165933.jpg"
-    thumb_path: "/assets/img/gallery/thumb/20190614_165933.jpg"
+    thumb_path: "/assets/img/gallery/medium_thumb/20190614_165933.jpg"
   - path: "/assets/img/gallery/DSC06237.jpg"
-    thumb_path: "/assets/img/gallery/thumb/DSC06237.jpg"
+    thumb_path: "/assets/img/gallery/medium_thumb/DSC06237.jpg"
   - path: "/assets/img/gallery/DSC06240.jpg"
-    thumb_path: "/assets/img/gallery/thumb/DSC06240.jpg"
+    thumb_path: "/assets/img/gallery/medium_thumb/DSC06240.jpg"
   - path: "/assets/img/gallery/DSC06241.jpg"
-    thumb_path: "/assets/img/gallery/thumb/DSC06241.jpg"
+    thumb_path: "/assets/img/gallery/medium_thumb/DSC06241.jpg"
