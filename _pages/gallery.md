@@ -10,7 +10,7 @@ permalink: /gallery/
 {% for image in site.data.gallery.images %}
 <div class="column is-3-desktop is-4-tablet is-half-mobile">
 <div class="gallery-item">
-<a href="{{ site.baseurl }}{{ image.path }}" class="gallery-link"><img src="{{ site.baseurl }}{{ image.thumb_path }}" data-src="{{ site.baseurl }}{{ image.path }}"/></a>
+<a href="{{ site.baseurl }}{{ image.path }}" class="gallery-link" data-sub-html="{{ image.description }}"><img src="{{ site.baseurl }}{{ image.thumb_path }}" data-src="{{ site.baseurl }}{{ image.path }}"/></a>
 </div>
 </div>
 {% endfor %}
