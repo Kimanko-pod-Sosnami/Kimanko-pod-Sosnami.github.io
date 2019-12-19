@@ -6,14 +6,17 @@ permalink: /prices/
 
 # Prices
 
+<div class="content" markdown="1">
+
   * Room 2 and Room 4
     * Double room with bathroom
     * Standard rate: <strong>PLN 80</strong> (per night)
 
   * Room 3
-    * 4 person room (double bed and foldable couch) with bathroom
+    * 2-4 person room (double bed and foldable couch) with bathroom
     * Standard rate: <strong>PLN 120</strong> (per night)
 
+</div>
 
 Higher prices might apply during Christmas, New Year's Eve, Easter and long weekends. Reservations during 
 these periods should be at least for 3 nights, prices agreed by phone depending on the length of stay.

@@ -28,7 +28,6 @@ We highly recommend our guesthouse for people who value peace and quiet, nature 
 The large garden surrounding the guesthouse is available for guests. There are picnic benches and a spot for campfires.
 Visit the [gallery]({{ site.baseurl }}/gallery/) for all pictures of our guesthouse, the garden and the surroundings.
 
-
 <br />
 <div class="card">
   <header class="card-header">
@@ -58,8 +57,8 @@ Visit the [gallery]({{ site.baseurl }}/gallery/) for all pictures of our guestho
             <div class="column is-6">
             <ul id="gallery-room2" class="gallery list-unstyled cS-hidden">
                 {% for image in site.data.gallery_room2.images %}
-                <li data-thumb="{{ image.thumb_path }}"> 
-                    <img src="{{ image.path }}" />
+                <li data-thumb="{{ site.baseurl }}{{ image.thumb_path }}"> 
+                    <img src="{{ site.baseurl }}{{ image.path }}" />
                     <p>{{ image.description }}</p>
                 </li>    
                 {% endfor %}
@@ -77,8 +76,8 @@ Visit the [gallery]({{ site.baseurl }}/gallery/) for all pictures of our guestho
             <div class="column is-6">              
             <ul id="gallery-room3" class="gallery list-unstyled cS-hidden">
                 {% for image in site.data.gallery_room3.images %}
-                <li data-thumb="{{ image.thumb_path }}"> 
-                    <img src="{{ image.path }}" />
+                <li data-thumb="{{ site.baseurl }}{{ image.thumb_path }}"> 
+                    <img src="{{ site.baseurl }}{{ image.path }}" />
                     <p>{{ image.description }}</p>
                 </li>    
                 {% endfor %}
@@ -95,8 +94,8 @@ Visit the [gallery]({{ site.baseurl }}/gallery/) for all pictures of our guestho
             <div class="column is-6">
             <ul id="gallery-room4" class="gallery list-unstyled cS-hidden">
                 {% for image in site.data.gallery_room4.images %}
-                <li data-thumb="{{ image.thumb_path }}"> 
-                    <img src="{{ image.path }}" />
+                <li data-thumb="{{ site.baseurl }}{{ image.thumb_path }}"> 
+                    <img src="{{ site.baseurl }}{{ image.path }}" />
                     <p>{{ image.description }}</p>
                 </li>    
                 {% endfor %}
@@ -122,7 +121,7 @@ Visit the [gallery]({{ site.baseurl }}/gallery/) for all pictures of our guestho
                     slideMargin: 0,
                     speed:500,
                     auto:false,
-                    loop:true,
+                    //loop:true,
                     onSliderLoad: function() {
                         $(gallery).removeClass('cS-hidden');
                     }  

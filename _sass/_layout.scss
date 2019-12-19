@@ -72,7 +72,7 @@ aside {
 
 // Section
 
-.main-content > h1 {
+#main > h1 {
   font-size: 2.45rem;
   text-align:center;
 
@@ -176,7 +176,7 @@ nav.tabs {
   width: 100%;
 
   ul {
-    width: 100%;
+    margin-top: 0px;
     display: block;
       @media (min-width: $tablet) {
         display: flex;

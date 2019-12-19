@@ -3,11 +3,12 @@ name: Kimanko pod Sosnami
 plugins:
   - jekyll-sitemap
 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog SHOULD NOT END WITH SLASH
 
 highlighter: rouge
 encoding: utf-8
 
+# Header image, displayed as header for contact info
 header_image: "/assets/img/gallery/20190614_165933.jpg"
 
 include: ['_pages']
