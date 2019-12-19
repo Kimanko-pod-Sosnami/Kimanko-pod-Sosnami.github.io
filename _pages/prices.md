@@ -26,7 +26,7 @@ permalink: /prices/
     <span class="panel-icon">
       <i class="fas fa-bed" aria-hidden="true"></i>
     </span>
-    Double bed or twin beds
+    Double bed
   </a>
 
   <a class="panel-block">
@@ -107,7 +107,7 @@ permalink: /prices/
     <span class="panel-icon">
       <i class="fas fa-bed" aria-hidden="true"></i>
     </span>
-    Double bed or twin beds
+    Twin beds
   </a>
 
   <a class="panel-block">
