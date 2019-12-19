@@ -171,6 +171,21 @@ h2 {
 
 }
 
+nav.tabs {
+  width: 100%;
+
+  ul {
+    width: 100%;
+    display: block;
+      @media (min-width: $tablet) {
+        display: flex;
+      }
+  }
+
+}
+
+//Gallery page
+
 #gallery-page.columns {
     margin: 0px;
 }

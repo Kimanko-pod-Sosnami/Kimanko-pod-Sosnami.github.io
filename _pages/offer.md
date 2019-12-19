@@ -20,9 +20,6 @@ Visit the [gallery]({{ site.baseurl }}/gallery/) for pictures of the garden.
 <br />
 <div class="card">
   <header class="card-header">
-    <p class="card-header-title is-hidden-mobile">
-      Our Rooms
-    </p>
     <nav class="tabs is-medium">
         <ul>
           <li id="r1-tab" class="tab"><a><span>Room 1</span></a></li>
