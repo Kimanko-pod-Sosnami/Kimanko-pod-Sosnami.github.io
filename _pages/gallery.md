@@ -6,7 +6,7 @@ permalink: /gallery/
 
 <h1>Gallery</h1>
 
-<div id="gallery-page" class="columns is-multiline">
+<div id="gallery-page" class="columns is-multiline animated fadein">
 {% for image in site.data.gallery.images %}
 <div class="column is-3-desktop is-4-tablet is-half-mobile">
 <div class="gallery-item">

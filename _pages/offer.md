@@ -6,15 +6,27 @@ permalink: /offer/
 
 # Offer
 
-We currently have three guest rooms on the second floor. Each room was recently
-renovated and comes with a TV, a private bathroom equipped with a sink, toilet and shower. On the same floor there is a common
-kitchen with equipment that can be used by guests and a kids corner with toys, color books, ...
 
-Room 1 on the ground floor is currently being renovated an is not available for guests. 
+Our guesthouse, "Kimanko pod Sosnami", is located in a quiet and peaceful district in Brenna, about 1800m 
+from the city center.
+
+<br />
+The river Brennica is within walking distance (600m), where you can relax by the water. In the center 
+of Brenna there is a convenience store (Biedronka) and several other stores where you will find all the 
+products you need. It is worth noting that in the vicinity there is a local butcher who prepares delicious 
+sausages (perfect for roasting above a fire!) and other home-made products (about 800m). 
+
+<br />
+We currently have three guest rooms on the second floor. Each room was recently
+renovated and comes with Wifi internet, a TV, a private bathroom equipped with a sink, toilet and shower. On the same 
+floor there is a fully equipped kitchen that can be used by guests and a kids corner with toys, color books, ...
+
+<br />
+We highly recommend our guesthouse for people who value peace, nature lovers and families with children. 
 
 <br />
 The large garden surrounding the guesthouse is available for guests. There are picnic benches and a spot for campfires.
-Visit the [gallery]({{ site.baseurl }}/gallery/) for pictures of the garden.
+Visit the [gallery]({{ site.baseurl }}/gallery/) for all pictures of our guesthouse, the garden and the surroundings.
 
 
 <br />
@@ -31,18 +43,17 @@ Visit the [gallery]({{ site.baseurl }}/gallery/) for pictures of the garden.
   </header>
     <div id="R1" class="content-tab">
         <div class="columns">
-            <div class="column is-6">
-                <div class="card-content">Description here</div>
-            </div>
-            <div class="column is-6">
-                <div class="card-content">Coming soon</div>
+            <div class="column is-12">
+                <div class="card-content">Room 1 on the ground floor is currently being 
+                renovated an is not available for guests.</div>
             </div> 
         </div>
     </div>
     <div id="R2" class="content-tab is-active">
         <div class="columns">
             <div class="column is-6">
-                <div class="card-content">Description here</div>
+                <div class="card-content">A double room with a double bed, wardrobe, table with chairs, flat TV 
+                and bathroom.</div>
             </div>    
             <div class="column is-6">
             <ul id="gallery-room2" class="gallery list-unstyled cS-hidden">
@@ -59,7 +70,9 @@ Visit the [gallery]({{ site.baseurl }}/gallery/) for pictures of the garden.
     <div id="R3" class="content-tab">
         <div class="columns">
             <div class="column is-6">
-                <div class="card-content">Description here</div>
+                <div class="card-content">Room for 2-4 people with one large bed and fold-out sofa, wardrobe, 
+                small table, TV and a new bathroom (shower with extra deep tub, useful for bathing small children). 
+                Recommended for people who prefer more space or parents with their children.</div>
             </div>    
             <div class="column is-6">              
             <ul id="gallery-room3" class="gallery list-unstyled cS-hidden">
@@ -76,7 +89,8 @@ Visit the [gallery]({{ site.baseurl }}/gallery/) for pictures of the garden.
     <div id="R4" class="content-tab">
         <div class="columns">
             <div class="column is-6">
-                <div class="card-content">Description here</div>
+                <div class="card-content">Double room with two single beds (can be joined), wardrobe, table with 
+                chairs, bathroom and flat-screen TV.</div>
             </div>    
             <div class="column is-6">
             <ul id="gallery-room4" class="gallery list-unstyled cS-hidden">

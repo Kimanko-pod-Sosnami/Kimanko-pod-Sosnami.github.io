@@ -148,27 +148,28 @@ h2 {
 	display: block;
 	height: 0;
 	opacity: 0;
+    z-index: -1;
+    overflow: hidden;
 
 	.columns {
 	  margin-top: 0px;
 	}
 
-	.columns,p,.lSSlideOuter {
+	.columns,p,.lSSlideOuter,.content {
 		height: 0;
 	    opacity: 0;
 	}
-
 }
 
 .content-tab.is-active {
 	height: auto;
 	opacity: 1;
+    z-index: 100;
 
-	.columns,p,.lSSlideOuter {
+	.columns,p,.lSSlideOuter,.content  {
 		height: auto;
 	    opacity: 1;
 	}
-
 }
 
 nav.tabs {
