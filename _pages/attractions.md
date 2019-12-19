@@ -16,10 +16,10 @@ kids nearby.
     <nav class="tabs is-centered is-medium">
         <div class="container">
           <ul>
-            <li class="tab is-active" onclick="openTab(event,'Eat')"><a><span class="icon is-small"><i class="fas fa-utensils" aria-hidden="true"></i></span><span>Eat</span></a></li>
-            <li class="tab" onclick="openTab(event,'See')"><a><span class="icon is-small"><i class="fas fa-binoculars" aria-hidden="true"></i></span><span>See</span></a></li>
-            <li class="tab" onclick="openTab(event,'Kids')"><a><span class="icon is-small"><i class="fas fa-ice-cream" aria-hidden="true"></i></span><span>Kids</span></a></li>
-            <li class="tab" onclick="openTab(event,'Sports')"><a><span class="icon is-small"><i class="fas fa-hiking" aria-hidden="true"></i></span><span>Sports</span></a></li>
+            <li class="tab is-active" onclick="openTab(event,'Eat')"><a><span class="icon is-small"><i class="fas fa-utensils" aria-hidden="true"></i></span><span class="is-hidden-mobile">Eat</span></a></li>
+            <li class="tab" onclick="openTab(event,'See')"><a><span class="icon is-small"><i class="fas fa-binoculars" aria-hidden="true"></i></span><span class="is-hidden-mobile">See</span></a></li>
+            <li class="tab" onclick="openTab(event,'Kids')"><a><span class="icon is-small"><i class="fas fa-ice-cream" aria-hidden="true"></i></span><span class="is-hidden-mobile">Kids</span></a></li>
+            <li class="tab" onclick="openTab(event,'Sports')"><a><span class="icon is-small"><i class="fas fa-hiking" aria-hidden="true"></i></span><span class="is-hidden-mobile">Sports</span></a></li>
           </ul>
         </div>
     </nav>

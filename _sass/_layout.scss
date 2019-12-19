@@ -170,3 +170,40 @@ h2 {
 	}
 
 }
+
+#gallery-page.columns {
+    margin: 0px;
+}
+#gallery-page {
+    .column {
+      padding:1px;
+          @media (max-width: $tablet) {
+            width: 49%;
+            display: inline-flex;
+          }
+    }
+
+    .gallery-item {
+        width: 100%;
+        margin: 0;
+        padding: 0px;
+        background: #000;
+        overflow: hidden;
+        display: inline-grid;
+
+          img {
+            width: 100%;
+            -webkit-transform: scale(1);
+            transform: scale(1);
+            -webkit-transition: .3s ease-in-out;
+            transition: .3s ease-in-out;
+          }
+
+          img:hover {
+            -webkit-transform: scale(1.3);
+            transform: scale(1.3);
+            opacity: .5;
+          }
+    }
+
+}

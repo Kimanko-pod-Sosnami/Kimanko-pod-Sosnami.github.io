@@ -6,60 +6,21 @@ permalink: /gallery/
 
 <h1>Gallery</h1>
 
-<h2>Our guesthouse and the garden</h2>
-
-<div class="gallery">
-    <ul id="garden-gallery" class="gallery list-unstyled cS-hidden">
-        {% for image in site.data.gallery_garden.images %}
-        <li data-thumb="{{ image.thumb_path }}"> 
-            <img src="{{ image.path }}" />
-            <p>{{ image.description }}</p>
-        </li>    
-        {% endfor %}
-    </ul>
+<div id="gallery-page" class="columns is-multiline">
+{% for image in site.data.gallery.images %}
+<div class="column is-3-desktop is-4-tablet is-half-mobile">
+<div class="gallery-item">
+<a href="{{ image.path }}" class="gallery-link"><img src="{{ image.thumb_path }}" data-src="{{ image.path }}"/></a>
 </div>
-
-<br /><br />
-
-<h2>Things to see in Brenna</h2>
-
-<div class="gallery">
-    <ul id="brenna-gallery" class="gallery list-unstyled cS-hidden">
-        {% for image in site.data.gallery_brenna.images %}
-        <li data-thumb="{{ image.thumb_path }}"> 
-            <img src="{{ image.path }}" />
-            <p>{{ image.description }}</p>
-        </li>    
-        {% endfor %}
-    </ul>
 </div>
-
+{% endfor %}
+</div>
 
 <script type="text/javascript">
     $(document).ready(function() {
-            $('#garden-gallery').lightSlider({
-                gallery:true,
-                item:1,
-                thumbItem:9,
-                slideMargin: 0,
-                speed:500,
-                auto:false,
-                loop:true,
-                onSliderLoad: function() {
-                    $('#garden-gallery').removeClass('cS-hidden');
-                }  
-            });
-            $('#brenna-gallery').lightSlider({
-                gallery:true,
-                item:1,
-                thumbItem:9,
-                slideMargin: 0,
-                speed:500,
-                auto:false,
-                loop:true,
-                onSliderLoad: function() {
-                    $('#brenna-gallery').removeClass('cS-hidden');
-                }  
-            });
+        $("#gallery-page").lightGallery({
+           thumbnail:true,
+           selector: '.gallery-link'
+        }); 
     });
 </script>

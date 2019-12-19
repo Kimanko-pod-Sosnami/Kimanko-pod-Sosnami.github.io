@@ -42,10 +42,10 @@ permalink: /contact/
     <nav class="tabs is-centered is-medium">
         <div class="container">
           <ul>
-            <li class="tab is-active" onclick="openTab(event,'Car')"><a><span class="icon is-small"><i class="fas fa-car" aria-hidden="true"></i></span><span>by Car</span></a></li>
-            <li class="tab" onclick="openTab(event,'Bus')"><a><span class="icon is-small"><i class="fas fa-bus-alt" aria-hidden="true"></i></span><span>by Bus</span></a></li>
-            <li class="tab" onclick="openTab(event,'Train')"><a><span class="icon is-small"><i class="fas fa-train" aria-hidden="true"></i></span><span>by Train</span></a></li>
-            <li class="tab" onclick="openTab(event,'Plane')"><a><span class="icon is-small"><i class="fas fa-plane-departure" aria-hidden="true"></i></span><span>by Plane</span></a></li>
+            <li class="tab is-active" onclick="openTab(event,'Car')"><a><span class="icon is-small"><i class="fas fa-car" aria-hidden="true"></i></span><span class="is-hidden-mobile">by Car</span></a></li>
+            <li class="tab" onclick="openTab(event,'Bus')"><a><span class="icon is-small"><i class="fas fa-bus-alt" aria-hidden="true"></i></span><span class="is-hidden-mobile">by Bus</span></a></li>
+            <li class="tab" onclick="openTab(event,'Train')"><a><span class="icon is-small"><i class="fas fa-train" aria-hidden="true"></i></span><span class="is-hidden-mobile">by Train</span></a></li>
+            <li class="tab" onclick="openTab(event,'Plane')"><a><span class="icon is-small"><i class="fas fa-plane-departure" aria-hidden="true"></i></span><span class="is-hidden-mobile">by Plane</span></a></li>
           </ul>
         </div>
     </nav>
