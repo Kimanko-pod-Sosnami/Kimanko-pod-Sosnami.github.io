@@ -150,3 +150,6 @@ A reservation deposit of min. 30% of the total booking value is required. We ask
 because the deposit is NOT REFUNDABLE. The remaining amount is to be paid upon arrival. Please make a reservation by 
 phone, after paying the deposit you will receive a reservation-confirmation by e-mail. Check-in should be 
 after 13:00 and checking-out before 11:00, though other arrangements can be made.
+
+<br />
+We do not accept animals/pets.

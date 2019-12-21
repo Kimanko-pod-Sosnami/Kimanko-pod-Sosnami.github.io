@@ -12,7 +12,7 @@ permalink: /ceny/
     <p>Reservations</p>
   </div>
   <div class="message-body">
-    Reservations need to be made by phone, you can reach us at <a href="{{ site.baseurl }}/contact/">{{ site.data.contact.tel }}</a>.
+    Prosimy o rezerwację telefoniczną pod numerem: <a href="{{ site.baseurl }}/kontakt/">{{ site.data.contact.tel }}</a>.
   </div>
 </article>
 
@@ -22,39 +22,39 @@ permalink: /ceny/
 <div class="column is-4-desktop is-6-tablet">
 <article class="panel">
   <p class="panel-heading">
-    Room 2
+    Pokój 2
   </p>
   
   <a class="panel-block">
     <span class="panel-icon">
       <i class="fas fa-user-friends" aria-hidden="true"></i>
     </span>
-    1-2 Guests
+    1-2 gości
   </a>
   
   <a class="panel-block">
     <span class="panel-icon">
       <i class="fas fa-bed" aria-hidden="true"></i>
     </span>
-    Double bed
+    Podwójne łóżko
   </a>
 
   <a class="panel-block">
     <span class="panel-icon">
       <i class="fas fa-tv" aria-hidden="true"></i>
     </span>
-    Flat-screen TV
+    Płaski TV
   </a>
 
   <a class="panel-block">
     <span class="panel-icon">
       <i class="fas fa-shower" aria-hidden="true"></i>
     </span>
-    Private bathroom with shower, sink and toilet
+    Prywatna łazienka z prysznicem
   </a>
 
    <p class="panel-footer">
-    <span>from PLN&nbsp;{{ site.data.prices.double_room }}&nbsp;(per night)</span>
+    <span>od {{ site.data.prices.double_room }}zł (za dobe)</span>
   </p>
 </article>
 
@@ -63,39 +63,39 @@ permalink: /ceny/
 <div class="column is-4-desktop is-6-tablet">
 <article class="panel">
   <p class="panel-heading">
-    Room 3
+    Pokój 3
   </p>
   
   <a class="panel-block">
     <span class="panel-icon">
       <i class="fas fa-user-friends" aria-hidden="true"></i>
     </span>
-    2-4 Guests
+    2-4 gości
   </a>
   
   <a class="panel-block">
     <span class="panel-icon">
       <i class="fas fa-bed" aria-hidden="true"></i>
     </span>
-    Double bed and foldable couch
+    Podwójne łóżko oraz rozkładana kanapa
   </a>
 
   <a class="panel-block">
     <span class="panel-icon">
       <i class="fas fa-tv" aria-hidden="true"></i>
     </span>
-    Flat-screen TV
+    Płaski TV
   </a>
 
   <a class="panel-block">
     <span class="panel-icon">
       <i class="fas fa-shower" aria-hidden="true"></i>
     </span>
-    Private bathroom with shower, sink and toilet
+    Prywatna łazienka z prysznicem
   </a>
 
    <p class="panel-footer">
-    <span>from PLN&nbsp;{{ site.data.prices.large_room }}&nbsp;(per night)</span>
+    <span>od {{ site.data.prices.large_room }}zł (za dobe)</span>
   </p>
 </article>
 
@@ -103,39 +103,39 @@ permalink: /ceny/
 <div class="column is-4-desktop is-6-tablet">
 <article class="panel">
   <p class="panel-heading">
-    Room 4
+    Pokój 4
   </p>
   
   <a class="panel-block">
     <span class="panel-icon">
       <i class="fas fa-user-friends" aria-hidden="true"></i>
     </span>
-    1-2 Guests
+    1-2 gości
   </a>
   
   <a class="panel-block">
     <span class="panel-icon">
       <i class="fas fa-bed" aria-hidden="true"></i>
     </span>
-    Twin beds
+    Dwa pojedyncze łózka
   </a>
 
   <a class="panel-block">
     <span class="panel-icon">
       <i class="fas fa-tv" aria-hidden="true"></i>
     </span>
-    Flat-screen TV
+    Płaski TV
   </a>
 
   <a class="panel-block">
     <span class="panel-icon">
       <i class="fas fa-shower" aria-hidden="true"></i>
     </span>
-    Private bathroom with shower, sink and toilet
+    Prywatna łazienka z prysznicem
   </a>
 
    <p class="panel-footer">
-    <span>from PLN&nbsp;{{ site.data.prices.double_room }}&nbsp;(per night)</span>
+    <span>od {{ site.data.prices.double_room }}zł (za dobe)</span>
   </p>
 </article>
 
@@ -151,3 +151,6 @@ ponieważ zadatek NIE PODLEGA ZWROTOWI. Pozostałą kwotę gość wpłaca w dniu
 dokonywanie rezerwacji telefonicznie, po wpłaceniu zadatku dostaną Pa ństwo potwierdzenie rezerwacji mailem. Doba 
 hotelowa zaczyna się o godzinie 13:00, natomiast kończy się o 11:00 (istnieje możliwość telefonicznego uzgodnienia 
 godzin).
+
+<br />
+W obiekcie nie przyjmujemy zwierząt.

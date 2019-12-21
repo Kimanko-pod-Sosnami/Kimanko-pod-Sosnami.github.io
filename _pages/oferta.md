@@ -6,12 +6,17 @@ permalink: /oferta/
 
 # Oferta
 
+“Kimanko pod Sosnami” to dom położony w cichej i spokojnej dzielnicy Brennej oddalonej od centrum miasta jedynie 
+20-minutowym spacerem. Miejsce to szczególnie polecane jest osobom ceniącym ciszę, miłośnikom przyrody oraz rodzinom 
+z dziećmi. Więcej zdjęć w zakładce [galeria]({{ site.baseurl }}/galeria/).
 
-Do Państwa dyspozycji oddajemy trzy świeżo wyremontowane pokoje z nowymi łazienkami oraz ogromny ogród z placem zabaw 
-i miejscem na ognisko. W domu znajduje sie również mały pokój zwany bawialnią, który udostępniony jest jako miejsce 
-zabawy dla najmłodszych. Do Państwa dyspozycji jest tez  w pełni wyposażona kuchnia. Miejsce to szczególnie polecane 
-jest osobom ceniącym ciszę, miłośnikom przyrody oraz rodzinom z dziećmi. Szczegółowy opis w zakładce 
-[galeria]({{ site.baseurl }}/galeria/).
+Do Państwa dyspozycji oddajemy <strong>trzy świeżo wyremontowane pokoje</strong> z <strong>nowymi łazienkami</strong> 
+oraz <strong>TV</strong>. W domu znajduje sie 
+również mały pokój zwany bawialnią, który udostępniony jest jako <strong>miejsce zabawy dla najmłodszych</strong>. Do dyspozycji 
+gości została udostępniona w pełni wyposażona <strong>kuchnia</strong> z lodówką, płytą grzewczą, tosterem oraz mikrofalówką. 
+Istnieje możliwość przygotowywania śniadań, kolacji oraz podgrzewania obiadów. Ogromny ogród do dyspozycji gości z 
+<strong>placem zabaw dla dzieci</strong>, miejscem na <strong>ognisko</strong>, hamakami, stolikami, gdzie mogą Państwo się zrelaksować a dzieci z 
+pewnością świetnie się bawić!  
 
 <br />
 <div class="card">
@@ -28,8 +33,8 @@ jest osobom ceniącym ciszę, miłośnikom przyrody oraz rodzinom z dziećmi. Sz
     <div id="R1" class="content-tab">
         <div class="columns">
             <div class="column is-12">
-                <div class="card-content">Room 1 on the ground floor is currently being 
-                renovated an is not available for guests.</div>
+                <div class="card-content">Pokój nr 1, znajdujący się na parterze jest 
+                obecnie wciąż niedostępny dla gości.</div>
             </div> 
         </div>
     </div>
@@ -40,8 +45,7 @@ jest osobom ceniącym ciszę, miłośnikom przyrody oraz rodzinom z dziećmi. Sz
                 Pokój 2-osobowy z dużym łóżkiem, szafą, stolikiem z krzesłami, płaskim TV oraz łazienką.
                 <br /><br /><br /><br />
                 
-                The rate for this room starts from <strong>PLN {{ site.data.prices.double_room }}</strong> (per night)
-                
+                Ceny zaczynają się od <strong>{{ site.data.prices.double_room }}zł</strong>/za pokój/doba
                 </div>
             </div>    
             <div class="column is-6">
@@ -64,8 +68,8 @@ jest osobom ceniącym ciszę, miłośnikom przyrody oraz rodzinom z dziećmi. Sz
                 dla osób preferujących więcej przestrzeni lub rodziców z dziećmi.
                 <br /><br /><br /><br />
                 
-                The rate for this room starts from <strong>PLN {{ site.data.prices.large_room }}</strong> (per night)
-                </div>
+                Ceny zaczynają się od <strong>{{ site.data.prices.large_room }}zł</strong>/za pokój/doba
+                 </div>
             </div>    
             <div class="column is-6">              
             <ul id="gallery-room3" class="gallery list-unstyled cS-hidden">
@@ -86,7 +90,7 @@ jest osobom ceniącym ciszę, miłośnikom przyrody oraz rodzinom z dziećmi. Sz
                 szafą, stolikiem z krzesłami, łazienką oraz płaskim TV.
                 <br /><br /><br /><br />
                 
-                The rate for this room starts from <strong>PLN {{ site.data.prices.double_room }}</strong> (per night)
+                Ceny zaczynają się od <strong>{{ site.data.prices.double_room }}zł</strong>/za pokój/doba
                 </div>
             </div>    
             <div class="column is-6">

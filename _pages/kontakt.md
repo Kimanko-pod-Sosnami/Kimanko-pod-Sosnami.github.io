@@ -23,7 +23,7 @@ permalink: /kontakt/
     </div>
 
     <div class="content">
-      <p>{{ site.data.contact.address.street_number }}<br />{{ site.data.contact.address.municipality }}<br />{{ site.data.contact.address.country }}</p>
+      <p>{{ site.data.contact.address.street_number }}<br />{{ site.data.contact.address.municipality }}</p>
       <p><span class="icon"><i class="fas fa-envelope"></i></span> <a href="mailto:{{ site.data.contact.email }}">{{ site.data.contact.email }}</a></p>
       <p><span class="icon"><i class="fas fa-phone"></i></span> {{ site.data.contact.tel }}</p>
     </div>
@@ -36,43 +36,36 @@ permalink: /kontakt/
 
 </div>
 
-## How to get to our guesthouse ?
+## Jak do nas dojechać ?
 <br />
 <div class="card">
     <nav class="tabs is-centered is-medium">
         <div class="container">
           <ul>
-            <li class="tab is-active" onclick="openTab(event,'Car')"><a><span class="icon is-small"><i class="fas fa-car" aria-hidden="true"></i></span><span>by Car</span></a></li>
-            <li class="tab" onclick="openTab(event,'Bus')"><a><span class="icon is-small"><i class="fas fa-bus-alt" aria-hidden="true"></i></span><span>by Bus</span></a></li>
-            <li class="tab" onclick="openTab(event,'Train')"><a><span class="icon is-small"><i class="fas fa-train" aria-hidden="true"></i></span><span>by Train</span></a></li>
-            <li class="tab" onclick="openTab(event,'Plane')"><a><span class="icon is-small"><i class="fas fa-plane-departure" aria-hidden="true"></i></span><span>by Plane</span></a></li>
+            <li class="tab is-active" onclick="openTab(event,'Car')"><a><span class="icon is-small"><i class="fas fa-car" aria-hidden="true"></i></span><span>samochodem</span></a></li>
+            <li class="tab" onclick="openTab(event,'Bus')"><a><span class="icon is-small"><i class="fas fa-bus-alt" aria-hidden="true"></i></span><span>autobusem</span></a></li>
+            <li class="tab" onclick="openTab(event,'Train')"><a><span class="icon is-small"><i class="fas fa-train" aria-hidden="true"></i></span><span>pociągiem</span></a></li>
           </ul>
         </div>
     </nav>
     
     <div class="container section">
         <div id="Car" class="content-tab is-active" >
-          <p>The easiest way to find the way to our guesthouse is to enter <strong>Szkolna 11, 43-438 Brenna, Poland</strong> in
-          <a href="maps.google.com">Goolge maps</a> as the destination and follow the directions.</p>
+        <p>Po wpisaniu adresu <strong>Szkolna 11, 43-438 Brenna</strong> w <a href="maps.google.com">Goolge maps</a> prosimy podażać za wskazaniami strony</p>
         </div>
         <div id="Bus" class="content-tab">
-            <p>The closest city reachable by long-distance bus/minivan is Skoczów. There are options from Kraków and 
-            Katowice from different companies (Lajkonik from Kraków and Drabas and Bus Brothers from Katwice). You can
-            check connections on <a href="https://www.busradar.pl">https://www.busradar.pl</a>.</p>
+            <p>Najbliższym miastem do którego moga Państwo dojechać międzymiastowym autobusem jest Skoczów. Połączeń 
+            prosimy szukać na stronie <a href="https://www.busradar.pl">https://www.busradar.pl</a>.</p>
             <br /><br />
-            <p>From Skoczów there are local busses to Brenna (<a href="http://skoczowdworzec.pl/schedule">Skoczów - Brenna Hołcyna</a>, however only few connections per day), <strong>we offer a pick-up 
-            service for a reasonable price</strong>.</p>
+            <p>Ze Skoczowa  do Brennej (<a href="http://skoczowdworzec.pl/schedule">Skoczów - Brenna Hołcyna</a>) kursują lokalne autobusy, jednak tylko kilka 
+            połączeń dziennie, <strong>oferujemy dowóz ze Skoczowa za rozsądną cene!</strong></p>
         </div>
         <div id="Train" class="content-tab">
-           <p>The closest city reachable by train is Skoczów, the only train connections are from Katowice, you 
-            can find the schedule <a herf="https://rozklad-pkp.pl/en">here</a></p>
+            <p>Najbliższym miastem do którego moga Państwo dojechać międzymiastowym autobusem jest Skoczów. Połączeń prosimy szukać na stronie <a herf="https://rozklad-pkp.pl/">pkp</a></p>
+               
             <br /><br />
-           <p>From Skoczów there are local busses to Brenna (<a href="http://skoczowdworzec.pl/schedule">Skoczów - Brenna Hołcyna</a>, however only few connections per day), <strong>we offer a pick-up 
-            service for a reasonable price</strong>.</p>
-        </div>
-        <div id="Plane" class="content-tab">
-           <p>The nearest airports are <strong>Katowice Airport</strong> and <strong>Kraków-Balice International Airport</strong>,
-           from there you can reach our guesthouse by train or bus.</p>
+            <p>Ze Skoczowa  do Brennej (<a href="http://skoczowdworzec.pl/schedule">Skoczów - Brenna Hołcyna</a>) kursują lokalne autobusy, jednak tylko kilka 
+            połączeń dziennie, <strong>oferujemy dowóz ze Skoczowa za rozsądną cene!</strong></p>
         </div>
     </div>
 </div>

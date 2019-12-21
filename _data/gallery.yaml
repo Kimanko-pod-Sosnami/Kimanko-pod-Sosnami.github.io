@@ -2,65 +2,101 @@ images:
   - path: "/assets/img/gallery/20190614_165933.jpg"
     thumb_path: "/assets/img/gallery/medium_thumb/20190614_165933.jpg"
     description: "Our guesthouse and the garden"
+    description_pl: "Widok na dom oraz otaczający go ogród"
+
   - path: "/assets/img/gallery/20190614_164322.jpg"
     thumb_path: "/assets/img/gallery/medium_thumb/20190614_164322.jpg"
-    description: "The garden, hammocks and campfire"
+
   - path: "/assets/img/gallery/DSC06151.jpg"
     thumb_path: "/assets/img/gallery/medium_thumb/DSC06151.jpg"
+
   - path: "/assets/img/gallery/GOPR8804.jpg"
     thumb_path: "/assets/img/gallery/medium_thumb/GOPR8804.jpg"
     description: "Room 4, standard double room with twin beds, flat-screen TV and private bathroom"
+    description_pl: "Pokój nr 4, standardowy pokój dwuosobowy w dwoma pojedyńczymi łóżkami, płaskim TV oraz prywatną łazienką."
+
   - path: "/assets/img/gallery/20190614_181430.jpg"
     thumb_path: "/assets/img/gallery/medium_thumb/20190614_181430.jpg"
-    description: "The garden, hammocks and campfire"
+
   - path: "/assets/img/gallery/IMG-20190825-WA0001.jpg"
     thumb_path: "/assets/img/gallery/medium_thumb/IMG-20190825-WA0001.jpg"
     description: "Room 2, standard double room with a double bed, flat-screen TV and private bathroom"
+    description_pl: "Pokój nr 2, standardowy pokój dwuosobowy z podwójnym łóżkiem, płaskim TV oraz prywatna łazienką"
+
   - path: "/assets/img/gallery/DSC06237.jpg"
     thumb_path: "/assets/img/gallery/medium_thumb/DSC06237.jpg"
     description: "Wooden playground for kids, swing set with a slide"
+    description_pl: "Drewniany plac zabaw dla dzieci"
+
   - path: "/assets/img/gallery/20190614_111630.jpg"
     thumb_path: "/assets/img/gallery/medium_thumb/20190614_111630.jpg"
     description: "Room 3, our largest room, with a double bed and foldable couch, suited for up to four people, flat-screen TV and private bathroom"
+    description_pl: "Pokój nr 3, największy z pokoi, z podwójnym łóżkiem, rozkładana kanapą, płaskim TV oraz prywatną łazienką"
+
   - path: "/assets/img/gallery/DSC06240.jpg"
     thumb_path: "/assets/img/gallery/medium_thumb/DSC06240.jpg"
+    description: "The garden, hammocks and campfire"
+    description_pl: "W ogrodzie znajduje się miejsce przeznaczone na ognisko, otoczone drewnianymi ławkami"
+
   - path: "/assets/img/gallery/DSC06241.jpg"
     thumb_path: "/assets/img/gallery/medium_thumb/DSC06241.jpg"
+
   - path: "/assets/img/gallery/20190614_113320.jpg"
     thumb_path: "/assets/img/gallery/medium_thumb/20190614_113320.jpg"
+
   - path: "/assets/img/gallery/DSC06242.jpg"
     thumb_path: "/assets/img/gallery/medium_thumb/DSC06242.jpg"
+
   - path: "/assets/img/gallery/GOPR8789.jpg"
     thumb_path: "/assets/img/gallery/medium_thumb/GOPR8789.jpg"
+    description_pl: "Ogólnodostępna kuchnia z lodówką, płytą grzewczą, tosterem oraz mikrofalówką"
+
   - path: "/assets/img/gallery/IMG-20180317-WA0042.jpg"
     thumb_path: "/assets/img/gallery/medium_thumb/IMG-20180317-WA0042.jpg"
+
   - path: "/assets/img/gallery/IMG-20180521-WA0016.jpg"
     thumb_path: "/assets/img/gallery/medium_thumb/IMG-20180521-WA0016.jpg"
+
   - path: "/assets/img/gallery/IMG-20181026-WA0007.jpg"
     thumb_path: "/assets/img/gallery/medium_thumb/IMG-20181026-WA0007.jpg"
+    description_pl: "Salamandry są częstymi gośćmi naszego ogrodu!"
+
   - path: "/assets/img/gallery/IMG-20181212-WA0000.1.jpg"
     thumb_path: "/assets/img/gallery/medium_thumb/IMG-20181212-WA0000.1.jpg"
-  - path: "/assets/img/gallery/IMG-20190731-WA0005.jpg"
-    thumb_path: "/assets/img/gallery/medium_thumb/IMG-20190731-WA0005.jpg"
+    description_pl: "Okolica zimą wygląda zachwycająco! "
+
   - path: "/assets/img/gallery/IMG-20190731-WA0008.jpg"
     thumb_path: "/assets/img/gallery/medium_thumb/IMG-20190731-WA0008.jpg"
+    description_pl: "Pokój przeznaczony do zabawy dla naszych najmłodszych gości"
+
   - path: "/assets/img/gallery/IMG_20180610_165319841.jpg"
     thumb_path: "/assets/img/gallery/medium_thumb/IMG_20180610_165319841.jpg"
+
   - path: "/assets/img/gallery/IMG_20190308_111645893.jpg"
     thumb_path: "/assets/img/gallery/medium_thumb/IMG_20190308_111645893.jpg"
+
   - path: "/assets/img/gallery/DSC05703.jpg"
     thumb_path: "/assets/img/gallery/medium_thumb/DSC05703.jpg"
+    description_pl: "Okolice rzeki Brennica są idealnym miejsce na upalne, letnie dni!"
+
   - path: "/assets/img/gallery/DSC06197.jpg"
     thumb_path: "/assets/img/gallery/medium_thumb/DSC06197.jpg"
+    description_pl: "Zachęcamy do pieszych wędrówek w okolicy Brennej"
+
   - path: "/assets/img/gallery/DSC06210.jpg"
     thumb_path: "/assets/img/gallery/medium_thumb/DSC06210.jpg"
+
   - path: "/assets/img/gallery/DSC06218.jpg"
     thumb_path: "/assets/img/gallery/medium_thumb/DSC06218.jpg"
+
   - path: "/assets/img/gallery/IMG-20170724-WA0001.jpg"
     thumb_path: "/assets/img/gallery/medium_thumb/IMG-20170724-WA0001.jpg"
+
   - path: "/assets/img/gallery/IMG_20180609_115822945.jpg"
     thumb_path: "/assets/img/gallery/medium_thumb/IMG_20180609_115822945.jpg"
+
   - path: "/assets/img/gallery/IMG_20180609_115850114_HDR.jpg"
     thumb_path: "/assets/img/gallery/medium_thumb/IMG_20180609_115850114_HDR.jpg"
+
   - path: "/assets/img/gallery/IMG_20180818_113521052_HDR.jpg"
     thumb_path: "/assets/img/gallery/medium_thumb/IMG_20180818_113521052_HDR.jpg"

@@ -6,11 +6,12 @@ permalink: /atrakcje/
 
 # Atrakcje
 
-The center of [Brenna](https://en.wikipedia.org/wiki/Brenna,_Poland) is within walking distance of our guesthouse,
-here you'll find various restaurants and shops. It is worth noting that in the vicinity there is a local butcher who 
-prepares delicious sausages (perfect for roasting above a fire!) and other home-made products (about 800m). For people looking for a more active holiday, there are hiking trails 
-starting from Brenna, while those travelling with children will be happy to find playground and activities for 
-kids nearby. The river Brennica is within walking distance (600m), where you can relax by the water.
+Dom oddalony jest od centrum [Brennej](https://en.wikipedia.org/wiki/Brenna,_Poland) około 20-minutowym spacerem Do 
+rzeki Brennicy jest bardzo blisko około 600 m, gdzie można zrelaksować sie nad wodą w ciepłe, letnie dni. W centrum 
+Brennej znajduje się Biedronka oraz kilka innych sklepów, gdzie znajdą Państwo wszystkie potrzebne produkty. Warto 
+dodać, że w niedalekiej okolicy znajduje się wędzarnia z pysznymi kiełbaskami (idealne na ognisko!) oraz innymi 
+swojskimi wyrobami (ok 800m). W okolicy znajduje się sporo atrakcji dla dzieci oraz osób lubiących aktywnie spędzać 
+czas.
 
 <br />
 <div class="card">
@@ -28,13 +29,11 @@ kids nearby. The river Brennica is within walking distance (600m), where you can
           <div class="content">
 <div markdown="1">
 
-  * [Kozia Zagroda](http://www.koziazagroda.com/) - Polish specialties
+  * [Kozia Zagroda](http://www.koziazagroda.com/)
   * Restauracja Beskid
     * Brenna, Wyzwolenia 89
-  * Wędzarnia Kita Wędzona - Butcher with polish specialties. Excellent sausages for the campfire !
+  * Wędzarnia Kita Wędzona
     * Brenna, Bukowa 5
-  * [Biedronka](https://www.biedronka.pl/) - Supermarket
-    * Brenna, Wyzwolenia 38B
     
 </div>
           </div>
@@ -42,28 +41,24 @@ kids nearby. The river Brennica is within walking distance (600m), where you can
         <div id="Kids" class="content-tab">
            <div class="content">
 <div markdown="1">
-  * [Fairytale Trail of the Utopca](https://turysta.brenna.org.pl/pl/bajkowy-szlak-utopca)
-  * [Forest Park of Surprises in Ustroń](http://www.lesnypark.pl/)
-  * [Rope Park on Góra Równica](http://www.parklinowy.pl/)
+  * [Bajkowy Szlak Utopca](https://turysta.brenna.org.pl/pl/bajkowy-szlak-utopca)
+  * [Leśny Park Niespodzianek](http://www.lesnypark.pl/)
+  * [Park Linowy na Górze Równica](http://www.parklinowy.pl/)
   * [Chlebowa Chata](http://www.chlebowachata.pl/)
-  * [Kozia Zagroda](http://www.koziazagroda.com/) Goat Farm and restaurant
+  * [Kozia Zagroda](http://www.koziazagroda.com/)
     * Brenna Centrum, ul. Sportowa 3
-  * [Pumptrack](https://business.facebook.com/pumptrackbrenna/) - bicycle playground
+  * [Pumptrack](https://business.facebook.com/pumptrackbrenna/) - rowerowy plac zabaw 
     * Brenna, ul. Górkacka 224
-  * Recreational square in the Tourism Park
+  * Rekreacyjny plac w Parku Turystyki
     * Brenna, ul. Malinowa 2b
-    * Children's Playground
-    * Miniature golf and floorball
-    * Ice rink (winter only)
-  * [Przystań Wodna Brenna Hołcyna](https://www.facebook.com/pages/category/Rental-Shop/Przysta%C5%84-Wodna-Brenna-Ho%C5%82cyna-798352830292770/) - Brenna's "harbor" pedal boat and kayak rental
-    * Only in summer
-    * About 1.5 km from the center
-  * Hucuł horse riding center
+    * plac zabaw dla dzieci
+    * minigolf oraz unihokej
+    * w zimę znajduje się tu również lodowisko
+  * [Przystań wodna Hołcyna](https://www.facebook.com/pages/category/Rental-Shop/Przysta%C5%84-Wodna-Brenna-Ho%C5%82cyna-798352830292770/)
+    * ok 1.5km od centrum Brennej, możliwość wynajęcia rowerków wodnych oraz kajaków w okresie letnim
+  * Ośrodek jazdy konnej Hucuł
     * Brenna, ul. Jatny 120
-    * Horse riding lessons
-    * Horse walks in the field
-    * One, two and several days horse ride trips
-    * carriage rides, and in winter - sleigh rides.
+    * W ofercie nauka jazdy konnej, spacery konne w terenie, rajdy konne jedno, dwu i kilku dniowe, przejażdżki bryczkami, a w zimie – kuligi.
             
   
 </div>
@@ -73,27 +68,25 @@ kids nearby. The river Brennica is within walking distance (600m), where you can
         <div class="content">
 <div markdown="1">
 
-  * Hiking trails
-    * follow the green trail from the center of Brenna to the **Błatnia** peak, where the PTTK hostel is located.
-    * follow the black trail to **Równica**, where the PTTK shelter and rope park are located
-    * Loop: Brenna - Hołcyna - **Kotarz** (blue trail) - Grabowa (red trail) - **Stary Groń** (black trail) - Brenna (further on the black trail, about 16km, we pass the lookout tower between Grabowa and Stary Groń and the Chata Grabowa Hostel
-    * Loop: Brenna - **Błatnia** (green trail) - **Klimczok** (yellow trail) - Uncle Tom's Cottage (red trail) - Brenna Bukowa (yellow trail) about 18km
-  * For running fans: [http://brenskiekierpce.pl/](http://brenskiekierpce.pl/)
-  * [Pumptrack](https://business.facebook.com/pumptrackbrenna/) - bicycle playground
+  * Wycieczki w góry
+    * szlakiem zielonym z centrum Brennej na szczyt Błatnia, gdzie znajduje się schronisko PTTK 
+    * szlakiem żółtym z Brennej Bukowej do Chaty Wuja Toma (1godz, większość szlaku asfaltem)
+    * szlakiem czarnym na Równicę, gdzie znajduje się schronisko PTTK oraz park linowy
+    * pętla: Brenna - Hołcyna  -  Kotarz (szlak niebieski) - Grabowa (szlak czerwony)  - Stary Groń (szlak czarny) - Brenna (dalej szlak czarny, ok 16km, mijamy wieżę widokowa pomiędzy Grabową a Starym Groniem oraz Schronisko Chata Grabowa
+    * pętla: Brenna – Błatnia (szlak zielony) – Klimczok (szlak żółty) – Chata Wuja Toma (szlak czerwony) – Brenna Bukowa (szlak żółty) ok 18km
+  * Dla fanów biegania [http://brenskiekierpce.pl/](http://brenskiekierpce.pl/)
+  * [Pumptrack](https://business.facebook.com/pumptrackbrenna/) - rowerowy plac zabaw 
     * Brenna, ul. Górkacka 224
-  * Recreational square in the Tourism Park
+  * Rekreacyjny plac w Parku Turystyki
     * Brenna, ul. Malinowa 2b
-    * Miniature golf and floorball
-    * Ice rink (winter only)
-  * [Przystań Wodna Brenna Hołcyna](https://www.facebook.com/pages/category/Rental-Shop/Przysta%C5%84-Wodna-Brenna-Ho%C5%82cyna-798352830292770/) - Brenna's "harbor" pedal boat and kayak rental
-    * Only in summer
-    * About 1.5 km from the center
-  * Hucuł horse riding center
+    * minigolf oraz unihokej
+    * w zimę znajduje się tu również lodowisko
+  * [Przystań wodna Hołcyna](https://www.facebook.com/pages/category/Rental-Shop/Przysta%C5%84-Wodna-Brenna-Ho%C5%82cyna-798352830292770/)
+    * ok 1.5km od centrum Brennej, możliwość wynajęcia rowerków wodnych oraz kajaków w okresie letnim
+  * Ośrodek jazdy konnej Hucuł
     * Brenna, ul. Jatny 120
-    * Horse riding lessons
-    * Horse walks in the field
-    * One, two and several days horse ride trips
-    * carriage rides, and in winter - sleigh rides.
+    * W ofercie nauka jazdy konnej, spacery konne w terenie, rajdy konne jedno, dwu i kilku dniowe, przejażdżki bryczkami, a w zimie – kuligi.
+         
 </div>
         </div>
         </div>
