@@ -1,10 +1,10 @@
 ---
-layout: default
-title: Contact
-permalink: /contact/
+layout: default.pl
+title: Kontakt
+permalink: /kontakt/
 ---
 
-# Contact
+# Kontakt
 
 <div class="columns">
 <div class="container column is-6">
