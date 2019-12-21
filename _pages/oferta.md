@@ -37,8 +37,7 @@ jest osobom ceniącym ciszę, miłośnikom przyrody oraz rodzinom z dziećmi. Sz
         <div class="columns">
             <div class="column is-6">
                 <div class="card-content">
-                A double room with a double bed, wardrobe, table with chairs, flat TV 
-                and bathroom.
+                Pokój 2-osobowy z dużym łóżkiem, szafą, stolikiem z krzesłami, płaskim TV oraz łazienką.
                 <br /><br /><br /><br />
                 
                 The rate for this room starts from <strong>PLN {{ site.data.prices.double_room }}</strong> (per night)
@@ -60,10 +59,10 @@ jest osobom ceniącym ciszę, miłośnikom przyrody oraz rodzinom z dziećmi. Sz
     <div id="R3" class="content-tab">
         <div class="columns">
             <div class="column is-6">
-                <div class="card-content">Room for 2-4 people with one large bed and fold-out sofa, wardrobe, 
-                small table, TV and a new bathroom (shower with extra deep tub, useful for bathing small children). 
-                Recommended for people who prefer more space or parents with their children.
-                                <br /><br /><br /><br />
+                <div class="card-content">Pokój 2-4 osobowy z jednym dużym łózkiem i rozkładaną kanapą, szafą, 
+                małym stolikiem, TV oraz nową łazienką (glęboki brodzik przydatny przy małych dzieciach). Polecany 
+                dla osób preferujących więcej przestrzeni lub rodziców z dziećmi.
+                <br /><br /><br /><br />
                 
                 The rate for this room starts from <strong>PLN {{ site.data.prices.large_room }}</strong> (per night)
                 </div>
@@ -83,9 +82,9 @@ jest osobom ceniącym ciszę, miłośnikom przyrody oraz rodzinom z dziećmi. Sz
     <div id="R4" class="content-tab">
         <div class="columns">
             <div class="column is-6">
-                <div class="card-content">Double room with two single beds (can be joined), wardrobe, table with 
-                chairs, bathroom and flat-screen TV.
-                                <br /><br /><br /><br />
+                <div class="card-content">Pokój 2-osobowy z dwoma pojedyńczymi łóżkami (możliwość polączenia w jedno), 
+                szafą, stolikiem z krzesłami, łazienką oraz płaskim TV.
+                <br /><br /><br /><br />
                 
                 The rate for this room starts from <strong>PLN {{ site.data.prices.double_room }}</strong> (per night)
                 </div>
@@ -103,7 +102,7 @@ jest osobom ceniącym ciszę, miłośnikom przyrody oraz rodzinom z dziećmi. Sz
         </div>
   </div>
   <footer class="card-footer">
-    <a href="{{ site.baseurl }}/prices/" class="card-footer-item">Rates &amp; Reservations</a>
+    <a href="{{ site.baseurl }}/ceny/" class="card-footer-item">Ceny oraz Rezerwacja</a>
   </footer>
 </div>
 

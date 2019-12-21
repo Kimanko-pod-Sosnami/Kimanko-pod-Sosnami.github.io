@@ -17,7 +17,7 @@ permalink: /kontakt/
   <div class="card-content">
     <div class="media">
       <div class="media-content">
-        <p class="subtitle is-6">Guesthouse</p>
+        <p class="subtitle is-6">Pokoje do wynajęcia</p>
         <p class="title is-4">Kimanko pod Sosnami</p>
       </div>
     </div>
