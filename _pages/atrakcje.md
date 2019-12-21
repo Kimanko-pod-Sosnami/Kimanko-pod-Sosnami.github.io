@@ -17,10 +17,9 @@ kids nearby. The river Brennica is within walking distance (600m), where you can
     <nav class="tabs is-centered is-medium">
         <div class="container">
           <ul>
-            <li class="tab is-active" onclick="openTab(event,'Eat')"><a><span class="icon is-small"><i class="fas fa-utensils" aria-hidden="true"></i></span><span>Eat</span></a></li>
-            <!--<li class="tab" onclick="openTab(event,'See')"><a><span class="icon is-small"><i class="fas fa-binoculars" aria-hidden="true"></i></span><span>See</span></a></li>-->
-            <li class="tab" onclick="openTab(event,'Kids')"><a><span class="icon is-small"><i class="fas fa-ice-cream" aria-hidden="true"></i></span><span>Kids</span></a></li>
-            <li class="tab" onclick="openTab(event,'Sports')"><a><span class="icon is-small"><i class="fas fa-hiking" aria-hidden="true"></i></span><span>Sports</span></a></li>
+            <li class="tab is-active" onclick="openTab(event,'Eat')"><a><span class="icon is-small"><i class="fas fa-utensils" aria-hidden="true"></i></span><span>Restauracje</span></a></li>
+            <li class="tab" onclick="openTab(event,'Kids')"><a><span class="icon is-small"><i class="fas fa-ice-cream" aria-hidden="true"></i></span><span>Dzieci</span></a></li>
+            <li class="tab" onclick="openTab(event,'Sports')"><a><span class="icon is-small"><i class="fas fa-hiking" aria-hidden="true"></i></span><span>Sport</span></a></li>
           </ul>
         </div>
     </nav>
@@ -39,11 +38,6 @@ kids nearby. The river Brennica is within walking distance (600m), where you can
     
 </div>
           </div>
-        </div>
-        <div id="See" class="content-tab">
-            <div class="content">
-              test2<br>
-            Details Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</div>
         </div>
         <div id="Kids" class="content-tab">
            <div class="content">
