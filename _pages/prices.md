@@ -6,9 +6,19 @@ permalink: /prices/
 
 # Rates &amp; Reservations
 
+
+<article class="message is-success">
+  <div class="message-header">
+    <p>Reservations</p>
+  </div>
+  <div class="message-body">
+    Reservations need to be made by phone, you can reach us at <a href="{{ site.baseurl }}/contact/">{{ site.data.contact.tel }}</a>.
+  </div>
+</article>
+
+
+
 <div class="columns is-multiline">
-
-
 <div class="column is-4-desktop is-6-tablet">
 <article class="panel">
   <p class="panel-heading">
