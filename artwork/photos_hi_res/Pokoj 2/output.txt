@@ -1,0 +1,13 @@
+ Volume in drive D is Data
+ Volume Serial Number is 38CB-55F3
+
+ Directory of D:\Git\Kimanko-pod-Sosnami.github.io\artwork\photos_hi_res\Pokoj 2
+
+08-Dec-19  12:12 PM    <DIR>          .
+08-Dec-19  12:12 PM    <DIR>          ..
+20-Jun-19  01:43 PM         2,483,985 GOPR8951.JPG
+20-Jun-19  01:43 PM         2,901,467 GOPR8967.JPG
+25-Aug-19  09:55 AM            97,120 IMG-20190825-WA0001.jpg
+08-Dec-19  12:12 PM                 0 output.txt
+               4 File(s)      5,482,572 bytes
+               2 Dir(s)  74,991,915,008 bytes free
