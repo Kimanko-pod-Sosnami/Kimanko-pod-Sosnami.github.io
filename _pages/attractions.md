@@ -84,7 +84,7 @@ kids nearby. The river Brennica is within walking distance (600m), where you can
     * follow the black trail to **Równica**, where the PTTK shelter and rope park are located
     * Loop: Brenna - Hołcyna - **Kotarz** (blue trail) - Grabowa (red trail) - **Stary Groń** (black trail) - Brenna (further on the black trail, about 16km, we pass the lookout tower between Grabowa and Stary Groń and the Chata Grabowa Hostel
     * Loop: Brenna - **Błatnia** (green trail) - **Klimczok** (yellow trail) - Uncle Tom's Cottage (red trail) - Brenna Bukowa (yellow trail) about 18km
-  * For running fans: [http://brenskiekierpce.pl/](http://brenskiekierpce.pl/))
+  * For running fans: [http://brenskiekierpce.pl/](http://brenskiekierpce.pl/)
   * [Pumptrack](https://business.facebook.com/pumptrackbrenna/) - bicycle playground
     * Brenna, ul. Górkacka 224
   * Recreational square in the Tourism Park
