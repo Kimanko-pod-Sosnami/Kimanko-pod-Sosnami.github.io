@@ -2,6 +2,7 @@
 layout: default.pl
 title: Atrakcje
 permalink: /atrakcje/
+en_link: /attractions/
 ---
 
 # Atrakcje

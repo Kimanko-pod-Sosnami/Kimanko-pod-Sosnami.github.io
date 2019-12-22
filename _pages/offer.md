@@ -2,6 +2,7 @@
 layout: default
 title: Offer
 permalink: /offer/
+pl_link: /oferta/
 ---
 
 # Offer

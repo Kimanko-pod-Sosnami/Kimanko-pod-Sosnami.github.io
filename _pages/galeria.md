@@ -2,6 +2,7 @@
 layout: default.pl
 title: Galeria
 permalink: /galeria/
+en_link: /gallery/
 ---
 
 <h1>Galeria</h1>

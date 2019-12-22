@@ -2,6 +2,7 @@
 layout: default
 title: Rates &amp; Reservations
 permalink: /prices/
+pl_link: /ceny/
 ---
 
 # Rates &amp; Reservations

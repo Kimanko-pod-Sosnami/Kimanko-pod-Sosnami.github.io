@@ -2,6 +2,7 @@
 layout: default.pl
 title: Kontakt
 permalink: /kontakt/
+en_link: /contact/
 ---
 
 # Kontakt

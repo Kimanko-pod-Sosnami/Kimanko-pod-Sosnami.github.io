@@ -2,6 +2,7 @@
 layout: default.pl
 title: Ceny oraz Rezerwacja
 permalink: /ceny/
+en_link: /prices/
 ---
 
 # Ceny oraz Rezerwacja
