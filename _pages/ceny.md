@@ -10,7 +10,7 @@ en_link: /prices/
 
 <article class="message is-success">
   <div class="message-header">
-    <p>Reservations</p>
+    <p>Rezerwacja</p>
   </div>
   <div class="message-body">
     Prosimy o rezerwację telefoniczną pod numerem: <a href="{{ site.baseurl }}/kontakt/">{{ site.data.contact.tel }}</a>.
@@ -149,7 +149,7 @@ tym okresie na minimum 3 doby, ceny uzgadniane telefonicznie w zależności od d
 <br />
 Przy rezerwacji wymagany jest zadatek min. 30% ogólnej wartości rezerwacji. Bardzo prosimy o przemyślane rezerwacje, 
 ponieważ zadatek NIE PODLEGA ZWROTOWI. Pozostałą kwotę gość wpłaca w dniu przyjazdu podczas meldowania. Prosimy o 
-dokonywanie rezerwacji telefonicznie, po wpłaceniu zadatku dostaną Pa ństwo potwierdzenie rezerwacji mailem. Doba 
+dokonywanie rezerwacji telefonicznie, po wpłaceniu zadatku dostaną Państwo potwierdzenie rezerwacji mailem. Doba 
 hotelowa zaczyna się o godzinie 13:00, natomiast kończy się o 11:00 (istnieje możliwość telefonicznego uzgodnienia 
 godzin).
 
