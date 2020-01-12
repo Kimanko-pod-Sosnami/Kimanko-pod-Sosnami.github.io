@@ -8,7 +8,7 @@ en_link: /attractions/
 # Atrakcje
 
 Dom oddalony jest od centrum [Brennej](https://en.wikipedia.org/wiki/Brenna,_Poland) około 20-minutowym spacerem Do 
-rzeki Brennicy jest bardzo blisko około 600 m, gdzie można zrelaksować sie nad wodą w ciepłe, letnie dni. W centrum 
+rzeki Brennicy jest bardzo blisko około 350 m, gdzie można zrelaksować sie nad wodą w ciepłe, letnie dni. W centrum 
 Brennej znajduje się Biedronka oraz kilka innych sklepów, gdzie znajdą Państwo wszystkie potrzebne produkty. Warto 
 dodać, że w niedalekiej okolicy znajduje się wędzarnia z pysznymi kiełbaskami (idealne na ognisko!) oraz innymi 
 swojskimi wyrobami (ok 800m). W okolicy znajduje się sporo atrakcji dla dzieci oraz osób lubiących aktywnie spędzać 

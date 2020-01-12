@@ -11,7 +11,7 @@ The center of [Brenna](https://en.wikipedia.org/wiki/Brenna,_Poland) is within w
 here you'll find various restaurants and shops. It is worth noting that in the vicinity there is a local butcher who 
 prepares delicious sausages (perfect for roasting above a fire!) and other home-made products (about 800m). For people looking for a more active holiday, there are hiking trails 
 starting from Brenna, while those travelling with children will be happy to find playground and activities for 
-kids nearby. The river Brennica is within walking distance (600m), where you can relax by the water.
+kids nearby. The river Brennica is within walking distance (350m), where you can relax by the water.
 
 <br />
 <div class="card">
