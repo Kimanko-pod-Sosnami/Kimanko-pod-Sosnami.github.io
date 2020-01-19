@@ -20,15 +20,24 @@ html, body, #page {
 .navbar-brand {
   background-color: $menu_color;
   box-shadow: 0 8px 16px rgba(10, 10, 10, 0.1);
+
+  .navbar-text {
+    color: #ddd;
+    margin-left: auto !important;
+    margin-right: 0px;
+  }
+
+  .navbar-burger {
+    color: #ddd;
+    margin-left: 0px;
+  }
+
+  .navbar-burger:hover {
+    color: #eee;
+  }
 }
 
-.navbar-burger {
-  color: #ddd;
-}
 
-.navbar-burger:hover {
-  color: #eee;
-}
 
 // Side menu
 
