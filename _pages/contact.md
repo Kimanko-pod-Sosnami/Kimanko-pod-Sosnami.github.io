@@ -54,7 +54,7 @@ pl_link: /kontakt/
     <div class="container section">
         <div id="Car" class="content-tab is-active" >
           <p>The easiest way to find the way to our guesthouse is to enter <strong>Szkolna 11, 43-438 Brenna, Poland</strong> in
-          <a href="maps.google.com">Goolge maps</a> as the destination and follow the directions.</p>
+          <a href="https://maps.google.com">Google maps</a> as the destination and follow the directions.</p>
         </div>
         <div id="Bus" class="content-tab">
             <p>The closest city reachable by long-distance bus/minivan is Skoczów. There are options from Kraków and 
