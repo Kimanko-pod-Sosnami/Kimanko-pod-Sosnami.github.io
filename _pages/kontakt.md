@@ -52,7 +52,7 @@ en_link: /contact/
     
     <div class="container section">
         <div id="Car" class="content-tab is-active" >
-        <p>Po wpisaniu adresu <strong>Szkolna 11, 43-438 Brenna</strong> w <a href="maps.google.com">Goolge maps</a> prosimy podażać za wskazaniami strony</p>
+        <p>Po wpisaniu adresu <strong>Szkolna 11, 43-438 Brenna</strong> w <a href="https://maps.google.com">Google maps</a> prosimy podażać za wskazaniami strony</p>
         </div>
         <div id="Bus" class="content-tab">
             <p>Najbliższym miastem do którego moga Państwo dojechać międzymiastowym autobusem jest Skoczów. Połączeń 
